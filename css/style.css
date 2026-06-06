@@ -47,45 +47,43 @@ html, body { width: 100%; height: 100%; overflow: hidden; background: #060d18; f
   border: 1px solid rgba(100, 150, 220, 0.3);
 }
 
-@media (max-width: 768px) {
-  .info-panel {
-    top: auto;
-    right: auto;
-    bottom: calc(12px + env(safe-area-inset-bottom, 0px));
-    left: calc(12px + env(safe-area-inset-left, 0px));
-    transform: none;
-    width: auto;
-    min-width: 0;
-    max-width: min(200px, calc(100vw - 100px));
-    z-index: 20;
-    padding: 8px 10px;
-    border-radius: 8px;
-  }
-  .info-panel-title {
-    font-size: 13px;
-    margin-bottom: 6px;
-    padding-bottom: 5px;
-  }
-  .info-row { margin: 4px 0; }
-  .info-row .lbl { font-size: 9px; margin-bottom: 1px; letter-spacing: 0.4px; }
-  .info-row .val { font-size: 12px; }
-  .back-btn {
-    top: calc(12px + env(safe-area-inset-top, 0px));
-    bottom: auto;
-    left: 12px;
-    padding: 7px 12px;
-    font-size: 12px;
-  }
-  .legend-panel {
-    bottom: 12px;
-    right: 12px;
-    padding: 8px 10px;
-    font-size: 10px;
-  }
-  .legend-panel h3 { font-size: 10px; margin-bottom: 4px; }
-  .legend-line { width: 18px; height: 3px; }
-  .loading { bottom: 24px; font-size: 13px; padding: 10px 18px; }
+html.layout-mobile .info-panel {
+  top: auto;
+  right: auto;
+  bottom: calc(12px + env(safe-area-inset-bottom, 0px));
+  left: calc(12px + env(safe-area-inset-left, 0px));
+  transform: none;
+  width: auto;
+  min-width: 0;
+  max-width: min(200px, calc(100vw - 100px));
+  z-index: 20;
+  padding: 8px 10px;
+  border-radius: 8px;
 }
+html.layout-mobile .info-panel-title {
+  font-size: 13px;
+  margin-bottom: 6px;
+  padding-bottom: 5px;
+}
+html.layout-mobile .info-row { margin: 4px 0; }
+html.layout-mobile .info-row .lbl { font-size: 9px; margin-bottom: 1px; letter-spacing: 0.4px; }
+html.layout-mobile .info-row .val { font-size: 12px; }
+html.layout-mobile .back-btn {
+  top: calc(12px + env(safe-area-inset-top, 0px));
+  bottom: auto;
+  left: 12px;
+  padding: 7px 12px;
+  font-size: 12px;
+}
+html.layout-mobile .legend-panel {
+  bottom: 12px;
+  right: 12px;
+  padding: 8px 10px;
+  font-size: 10px;
+}
+html.layout-mobile .legend-panel h3 { font-size: 10px; margin-bottom: 4px; }
+html.layout-mobile .legend-line { width: 18px; height: 3px; }
+html.layout-mobile .loading { bottom: 24px; font-size: 13px; padding: 10px 18px; }
 .city-label {
   color: #fff; font-weight: 800; font-size: 11px;
   text-shadow: 0 0 4px #000, 0 0 8px #000;
