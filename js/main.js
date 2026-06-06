@@ -89,9 +89,9 @@ controls.minAzimuthAngle = 0;
 controls.maxAzimuthAngle = 0;
 controls.enableZoom = true;
 controls.enablePan = true;
-controls.zoomSpeed = 0.85;
+controls.zoomSpeed = 1.1;
 controls.mouseButtons = { LEFT: THREE.MOUSE.PAN, MIDDLE: THREE.MOUSE.DOLLY, RIGHT: THREE.MOUSE.PAN };
-controls.touches = { ONE: THREE.TOUCH.PAN, TWO: THREE.TOUCH.DOLLY };
+controls.touches = { ONE: THREE.TOUCH.PAN, TWO: THREE.TOUCH.DOLLY_PAN };
 controls.screenSpacePanning = false;
 controls.panSpeed = 1.15;
 
@@ -1418,6 +1418,8 @@ const DRAG_THRESHOLD = 6;
 const DRAG_THRESHOLD_TOUCH = 14;
 let pointerDown = null;
 let gesturePanned = false;
+let touchTap = null;
+let touchMoved = false;
 
 function handleMapPick(clientX, clientY) {
   if (nav.level === "polska") {
@@ -1437,8 +1439,9 @@ function handleMapPick(clientX, clientY) {
 }
 
 renderer.domElement.addEventListener("pointerdown", (e) => {
-  if (e.button !== 0 && e.pointerType !== "touch") return;
-  pointerDown = { x: e.clientX, y: e.clientY, type: e.pointerType };
+  if (e.pointerType === "touch") return;
+  if (e.button !== 0) return;
+  pointerDown = { x: e.clientX, y: e.clientY };
   gesturePanned = false;
   container.classList.add("dragging");
 });
@@ -1456,8 +1459,7 @@ function endPointer(e) {
   }
   const dx = e.clientX - pointerDown.x;
   const dy = e.clientY - pointerDown.y;
-  const thresh = pointerDown.type === "touch" ? DRAG_THRESHOLD_TOUCH : DRAG_THRESHOLD;
-  const wasClick = !gesturePanned && dx * dx + dy * dy <= thresh * thresh;
+  const wasClick = !gesturePanned && dx * dx + dy * dy <= DRAG_THRESHOLD * DRAG_THRESHOLD;
   pointerDown = null;
   gesturePanned = false;
   if (wasClick) handleMapPick(e.clientX, e.clientY);
@@ -1469,8 +1471,39 @@ window.addEventListener("pointerup", (e) => {
 });
 renderer.domElement.addEventListener("pointercancel", () => {
   pointerDown = null;
+  gesturePanned = false;
   container.classList.remove("dragging");
 });
+
+renderer.domElement.addEventListener("touchstart", (e) => {
+  if (e.touches.length !== 1) {
+    touchTap = null;
+    return;
+  }
+  touchMoved = false;
+  touchTap = { x: e.touches[0].clientX, y: e.touches[0].clientY };
+}, { passive: true });
+
+renderer.domElement.addEventListener("touchmove", (e) => {
+  if (!touchTap || e.touches.length !== 1) return;
+  const dx = e.touches[0].clientX - touchTap.x;
+  const dy = e.touches[0].clientY - touchTap.y;
+  if (dx * dx + dy * dy > DRAG_THRESHOLD_TOUCH * DRAG_THRESHOLD_TOUCH) {
+    touchMoved = true;
+  }
+}, { passive: true });
+
+renderer.domElement.addEventListener("touchend", (e) => {
+  if (!touchTap || e.touches.length > 0) {
+    touchTap = null;
+    return;
+  }
+  const t = e.changedTouches[0];
+  if (!touchMoved && !MapFly.isFlying()) {
+    handleMapPick(t.clientX, t.clientY);
+  }
+  touchTap = null;
+}, { passive: true });
 
 renderer.domElement.addEventListener("mousemove", (e) => {
   if (MapFly.isFlying()) return;
