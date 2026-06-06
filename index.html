@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mapa 3D Polski</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="canvas-container"></div>
+  <button class="back-btn" id="backBtn" type="button">← Wróć</button>
+
+  <aside class="info-panel">
+    <h1 class="info-panel-title" id="unitTitle">Polska</h1>
+    <div class="info-row">
+      <span class="lbl">Siedziba</span>
+      <span class="val" id="seatInfo">—</span>
+    </div>
+    <div class="info-row">
+      <span class="lbl">Populacja</span>
+      <span class="val" id="popInfo">—</span>
+    </div>
+  </aside>
+
+  <aside class="legend-panel">
+    <h3>Drogi</h3>
+    <div class="legend-item"><span class="legend-line legend-kraj"></span> Krajowe</div>
+    <div class="legend-item"><span class="legend-line legend-woj"></span> Wojewódzkie</div>
+    <div class="legend-item"><span class="legend-line legend-local"></span> Powiatowe / gminne</div>
+  </aside>
+
+  <p class="loading" id="loading">Ładowanie danych 3D...</p>
+  <p class="hint">Kliknij województwo / powiat / gminę &nbsp;|&nbsp; Lewy: przesuń &nbsp;|&nbsp; Kółko: zoom &nbsp;|&nbsp; Esc: wstecz</p>
+
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+      "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+    }
+  }
+  </script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

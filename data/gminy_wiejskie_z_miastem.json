@@ -1,0 +1,1897 @@
+{
+  "opis": "Gmina wiejska (TERYT ...2) + gmina miejska (...1) o tej samej nazwie",
+  "reguly": [
+    "gmina wiejska: kod TERYT konczy sie na 2",
+    "gmina miejska: kod TERYT konczy sie na 1",
+    "ta sama nazwa (bez prefiksu 'gmina')",
+    "najpierw szukaj w powiecie (kod[:4]), potem w wojewodztwie (kod[:2])",
+    "gmina przemianowana: export old_name lub URL populacji (np. gmina Slupsk -> Redzikowo)",
+    "wspolrzedne i populacja miasta z OSM gminy miejskiej – bez wymyslania"
+  ],
+  "pary": [
+    {
+      "nazwa": "Aleksandrów Kujawski",
+      "miasto": "Aleksandrów Kujawski",
+      "gmina_wiejska_kod": "0401042",
+      "gmina_miejska_kod": "0401011",
+      "miasto_populacja": 11974,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.6935744,
+        52.8765365
+      ]
+    },
+    {
+      "nazwa": "Augustów",
+      "miasto": "Augustów",
+      "gmina_wiejska_kod": "2001022",
+      "gmina_miejska_kod": "2001011",
+      "miasto_populacja": 29785,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.9802357,
+        53.8437331
+      ]
+    },
+    {
+      "nazwa": "Bartoszyce",
+      "miasto": "Bartoszyce",
+      "gmina_wiejska_kod": "2801032",
+      "gmina_miejska_kod": "2801011",
+      "miasto_populacja": 22785,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.8143702,
+        54.2523708
+      ]
+    },
+    {
+      "nazwa": "Bełchatów",
+      "miasto": "Bełchatów",
+      "gmina_wiejska_kod": "1001022",
+      "gmina_miejska_kod": "1001011",
+      "miasto_populacja": 56025,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.3694645,
+        51.3667319
+      ]
+    },
+    {
+      "nazwa": "Biała Podlaska",
+      "miasto": "Biała Podlaska",
+      "gmina_wiejska_kod": "0601032",
+      "gmina_miejska_kod": "0661011",
+      "miasto_populacja": 56760,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        23.1193948,
+        52.0338399
+      ]
+    },
+    {
+      "nazwa": "Białogard",
+      "miasto": "Białogard",
+      "gmina_wiejska_kod": "3201022",
+      "gmina_miejska_kod": "3201011",
+      "miasto_populacja": 23811,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.9870974,
+        54.0064367
+      ]
+    },
+    {
+      "nazwa": "Bielsk Podlaski",
+      "miasto": "Bielsk Podlaski",
+      "gmina_wiejska_kod": "2003032",
+      "gmina_miejska_kod": "2003011",
+      "miasto_populacja": 24883,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        23.1925618,
+        52.7687555
+      ]
+    },
+    {
+      "nazwa": "Biłgoraj",
+      "miasto": "Biłgoraj",
+      "gmina_wiejska_kod": "0602032",
+      "gmina_miejska_kod": "0602011",
+      "miasto_populacja": 26785,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.7209326,
+        50.5424846
+      ]
+    },
+    {
+      "nazwa": "Bochnia",
+      "miasto": "Bochnia",
+      "gmina_wiejska_kod": "1201022",
+      "gmina_miejska_kod": "1201011",
+      "miasto_populacja": 29405,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.430541,
+        49.9693563
+      ]
+    },
+    {
+      "nazwa": "Bolesławiec",
+      "miasto": "Bolesławiec",
+      "gmina_wiejska_kod": "0201022",
+      "gmina_miejska_kod": "0201011",
+      "miasto_populacja": 38280,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.5651049,
+        51.2630333
+      ]
+    },
+    {
+      "nazwa": "Braniewo",
+      "miasto": "Braniewo",
+      "gmina_wiejska_kod": "2802022",
+      "gmina_miejska_kod": "2802011",
+      "miasto_populacja": 16907,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.827344,
+        54.3825966
+      ]
+    },
+    {
+      "nazwa": "Bratian",
+      "miasto": "Nowe Miasto Lubawskie",
+      "gmina_wiejska_kod": "2812052",
+      "gmina_miejska_kod": "2812011",
+      "miasto_populacja": 10657,
+      "link_via": "export_hint_powiat",
+      "wspolrzedne": [
+        19.5936277,
+        53.4255933
+      ]
+    },
+    {
+      "nazwa": "Brańsk",
+      "miasto": "Brańsk",
+      "gmina_wiejska_kod": "2003052",
+      "gmina_miejska_kod": "2003021",
+      "miasto_populacja": 3667,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.8328169,
+        52.7454145
+      ]
+    },
+    {
+      "nazwa": "Brodnica",
+      "miasto": "Brodnica",
+      "gmina_wiejska_kod": "0402032",
+      "gmina_miejska_kod": "0402011",
+      "miasto_populacja": 28659,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.3993626,
+        53.258092
+      ]
+    },
+    {
+      "nazwa": "Brzeziny",
+      "miasto": "Brzeziny",
+      "gmina_wiejska_kod": "1021022",
+      "gmina_miejska_kod": "1021011",
+      "miasto_populacja": 12329,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.7517694,
+        51.8004949
+      ]
+    },
+    {
+      "nazwa": "Chełm",
+      "miasto": "Chełm",
+      "gmina_wiejska_kod": "0603032",
+      "gmina_miejska_kod": "0662011",
+      "miasto_populacja": 60738,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        23.4711548,
+        51.1339221
+      ]
+    },
+    {
+      "nazwa": "Chełmno",
+      "miasto": "Chełmno",
+      "gmina_wiejska_kod": "0404022",
+      "gmina_miejska_kod": "0404011",
+      "miasto_populacja": 19063,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.4235473,
+        53.3493915
+      ]
+    },
+    {
+      "nazwa": "Chełmża",
+      "miasto": "Chełmża",
+      "gmina_wiejska_kod": "0415022",
+      "gmina_miejska_kod": "0415011",
+      "miasto_populacja": 14285,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.6112806,
+        53.1860233
+      ]
+    },
+    {
+      "nazwa": "Chodzież",
+      "miasto": "Chodzież",
+      "gmina_wiejska_kod": "3001032",
+      "gmina_miejska_kod": "3001011",
+      "miasto_populacja": 18117,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.9159506,
+        52.9886824
+      ]
+    },
+    {
+      "nazwa": "Chojnice",
+      "miasto": "Chojnice",
+      "gmina_wiejska_kod": "2202032",
+      "gmina_miejska_kod": "2202011",
+      "miasto_populacja": 39484,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        17.5614973,
+        53.6952912
+      ]
+    },
+    {
+      "nazwa": "Chojnów",
+      "miasto": "Chojnów",
+      "gmina_wiejska_kod": "0209022",
+      "gmina_miejska_kod": "0209011",
+      "miasto_populacja": 13107,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.9335241,
+        51.2722894
+      ]
+    },
+    {
+      "nazwa": "Ciechanów",
+      "miasto": "Ciechanów",
+      "gmina_wiejska_kod": "1402022",
+      "gmina_miejska_kod": "1402011",
+      "miasto_populacja": 43664,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.6191479,
+        52.8819798
+      ]
+    },
+    {
+      "nazwa": "Czarnków",
+      "miasto": "Czarnków",
+      "gmina_wiejska_kod": "3002022",
+      "gmina_miejska_kod": "3002011",
+      "miasto_populacja": 10373,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.5639572,
+        52.9050335
+      ]
+    },
+    {
+      "nazwa": "Człuchów",
+      "miasto": "Człuchów",
+      "gmina_wiejska_kod": "2203032",
+      "gmina_miejska_kod": "2203011",
+      "miasto_populacja": 13386,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        17.3588324,
+        53.6651462
+      ]
+    },
+    {
+      "nazwa": "Darłowo",
+      "miasto": "Darłowo",
+      "gmina_wiejska_kod": "3213032",
+      "gmina_miejska_kod": "3213011",
+      "miasto_populacja": 13459,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.40933,
+        54.42249
+      ]
+    },
+    {
+      "nazwa": "Dynów",
+      "miasto": "Dynów",
+      "gmina_wiejska_kod": "1816052",
+      "gmina_miejska_kod": "1816011",
+      "miasto_populacja": 6049,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.2338151,
+        49.8134771
+      ]
+    },
+    {
+      "nazwa": "Działdowo",
+      "miasto": "Działdowo",
+      "gmina_wiejska_kod": "2803022",
+      "gmina_miejska_kod": "2803011",
+      "miasto_populacja": 21014,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.1817841,
+        53.2346517
+      ]
+    },
+    {
+      "nazwa": "Dzierżoniów",
+      "miasto": "Dzierżoniów",
+      "gmina_wiejska_kod": "0202052",
+      "gmina_miejska_kod": "0202021",
+      "miasto_populacja": 32647,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.6514455,
+        50.7281896
+      ]
+    },
+    {
+      "nazwa": "Dębica",
+      "miasto": "Dębica",
+      "gmina_wiejska_kod": "1803042",
+      "gmina_miejska_kod": "1803011",
+      "miasto_populacja": 44912,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.4104804,
+        50.0514601
+      ]
+    },
+    {
+      "nazwa": "Elbląg",
+      "miasto": "Elbląg",
+      "gmina_wiejska_kod": "2804012",
+      "gmina_miejska_kod": "2861011",
+      "miasto_populacja": 117952,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        19.4044583,
+        54.1558708
+      ]
+    },
+    {
+      "nazwa": "Ełk",
+      "miasto": "Ełk",
+      "gmina_wiejska_kod": "2805022",
+      "gmina_miejska_kod": "2805011",
+      "miasto_populacja": 61782,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.3615813,
+        53.8248304
+      ]
+    },
+    {
+      "nazwa": "Garwolin",
+      "miasto": "Garwolin",
+      "gmina_wiejska_kod": "1403042",
+      "gmina_miejska_kod": "1403011",
+      "miasto_populacja": 17563,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.6149645,
+        51.8973315
+      ]
+    },
+    {
+      "nazwa": "Giżycko",
+      "miasto": "Giżycko",
+      "gmina_wiejska_kod": "2806042",
+      "gmina_miejska_kod": "2806011",
+      "miasto_populacja": 28803,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.7713092,
+        54.040092
+      ]
+    },
+    {
+      "nazwa": "Gniezno",
+      "miasto": "Gniezno",
+      "gmina_wiejska_kod": "3003032",
+      "gmina_miejska_kod": "3003011",
+      "miasto_populacja": 67157,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        17.595889,
+        52.5359736
+      ]
+    },
+    {
+      "nazwa": "Golub-Dobrzyń",
+      "miasto": "Golub-Dobrzyń",
+      "gmina_wiejska_kod": "0405032",
+      "gmina_miejska_kod": "0405011",
+      "miasto_populacja": 12318,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.0544501,
+        53.1138924
+      ]
+    },
+    {
+      "nazwa": "Gorlice",
+      "miasto": "Gorlice",
+      "gmina_wiejska_kod": "1205042",
+      "gmina_miejska_kod": "1205011",
+      "miasto_populacja": 26770,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.1593832,
+        49.65829
+      ]
+    },
+    {
+      "nazwa": "Gostynin",
+      "miasto": "Gostynin",
+      "gmina_wiejska_kod": "1404022",
+      "gmina_miejska_kod": "1404011",
+      "miasto_populacja": 18265,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.4612956,
+        52.4287607
+      ]
+    },
+    {
+      "nazwa": "Grajewo",
+      "miasto": "Grajewo",
+      "gmina_wiejska_kod": "2004022",
+      "gmina_miejska_kod": "2004011",
+      "miasto_populacja": 21616,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.4548627,
+        53.6469842
+      ]
+    },
+    {
+      "nazwa": "Grudziądz",
+      "miasto": "Grudziądz",
+      "gmina_wiejska_kod": "0406012",
+      "gmina_miejska_kod": "0462011",
+      "miasto_populacja": 92894,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        18.7557746,
+        53.4876477
+      ]
+    },
+    {
+      "nazwa": "Grybów",
+      "miasto": "Grybów",
+      "gmina_wiejska_kod": "1210042",
+      "gmina_miejska_kod": "1210011",
+      "miasto_populacja": 5962,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.9446455,
+        49.6250919
+      ]
+    },
+    {
+      "nazwa": "Gubin",
+      "miasto": "Gubin",
+      "gmina_wiejska_kod": "0802052",
+      "gmina_miejska_kod": "0802011",
+      "miasto_populacja": 16427,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        14.7293172,
+        51.9509156
+      ]
+    },
+    {
+      "nazwa": "Górowo Iławeckie",
+      "miasto": "Górowo Iławeckie",
+      "gmina_wiejska_kod": "2801052",
+      "gmina_miejska_kod": "2801021",
+      "miasto_populacja": 3840,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.4916449,
+        54.2842481
+      ]
+    },
+    {
+      "nazwa": "Głogów",
+      "miasto": "Głogów",
+      "gmina_wiejska_kod": "0203022",
+      "gmina_miejska_kod": "0203011",
+      "miasto_populacja": 65757,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.0860805,
+        51.6634169
+      ]
+    },
+    {
+      "nazwa": "Głowno",
+      "miasto": "Głowno",
+      "gmina_wiejska_kod": "1020052",
+      "gmina_miejska_kod": "1020011",
+      "miasto_populacja": 13839,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.7135665,
+        51.9660873
+      ]
+    },
+    {
+      "nazwa": "Hajnówka",
+      "miasto": "Hajnówka",
+      "gmina_wiejska_kod": "2005062",
+      "gmina_miejska_kod": "2005011",
+      "miasto_populacja": 20141,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        23.5878728,
+        52.7365783
+      ]
+    },
+    {
+      "nazwa": "Hrubieszów",
+      "miasto": "Hrubieszów",
+      "gmina_wiejska_kod": "0604042",
+      "gmina_miejska_kod": "0604011",
+      "miasto_populacja": 17041,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        23.8873816,
+        50.8047363
+      ]
+    },
+    {
+      "nazwa": "Inowrocław",
+      "miasto": "Inowrocław",
+      "gmina_wiejska_kod": "0407042",
+      "gmina_miejska_kod": "0407011",
+      "miasto_populacja": 71132,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.2595624,
+        52.7952408
+      ]
+    },
+    {
+      "nazwa": "Iława",
+      "miasto": "Iława",
+      "gmina_wiejska_kod": "2807032",
+      "gmina_miejska_kod": "2807011",
+      "miasto_populacja": 33111,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.5612175,
+        53.5976095
+      ]
+    },
+    {
+      "nazwa": "Jarosław",
+      "miasto": "Jarosław",
+      "gmina_wiejska_kod": "1804042",
+      "gmina_miejska_kod": "1804011",
+      "miasto_populacja": 36789,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.6796573,
+        50.0159029
+      ]
+    },
+    {
+      "nazwa": "Jasło",
+      "miasto": "Jasło",
+      "gmina_wiejska_kod": "1805042",
+      "gmina_miejska_kod": "1805011",
+      "miasto_populacja": 34303,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.4743139,
+        49.7470465
+      ]
+    },
+    {
+      "nazwa": "Jordanów",
+      "miasto": "Jordanów",
+      "gmina_wiejska_kod": "1215052",
+      "gmina_miejska_kod": "1215011",
+      "miasto_populacja": 5146,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.8299532,
+        49.6492876
+      ]
+    },
+    {
+      "nazwa": "Kamienna Góra",
+      "miasto": "Kamienna Góra",
+      "gmina_wiejska_kod": "0207022",
+      "gmina_miejska_kod": "0207011",
+      "miasto_populacja": 18425,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.0336631,
+        50.7837361
+      ]
+    },
+    {
+      "nazwa": "Kolno",
+      "miasto": "Kolno",
+      "gmina_wiejska_kod": "2006032",
+      "gmina_miejska_kod": "2006011",
+      "miasto_populacja": 10107,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.9312439,
+        53.4109383
+      ]
+    },
+    {
+      "nazwa": "Kowal",
+      "miasto": "Kowal",
+      "gmina_wiejska_kod": "0418092",
+      "gmina_miejska_kod": "0418011",
+      "miasto_populacja": 3469,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.1499427,
+        52.5308373
+      ]
+    },
+    {
+      "nazwa": "Koło",
+      "miasto": "Koło",
+      "gmina_wiejska_kod": "3009072",
+      "gmina_miejska_kod": "3009011",
+      "miasto_populacja": 21035,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.6359912,
+        52.2019866
+      ]
+    },
+    {
+      "nazwa": "Kołobrzeg",
+      "miasto": "Kołobrzeg",
+      "gmina_wiejska_kod": "3208042",
+      "gmina_miejska_kod": "3208011",
+      "miasto_populacja": 43364,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.5764209,
+        54.1759614
+      ]
+    },
+    {
+      "nazwa": "Kościan",
+      "miasto": "Kościan",
+      "gmina_wiejska_kod": "3011032",
+      "gmina_miejska_kod": "3011011",
+      "miasto_populacja": 23596,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.6449995,
+        52.086325
+      ]
+    },
+    {
+      "nazwa": "Kościerzyna",
+      "miasto": "Kościerzyna",
+      "gmina_wiejska_kod": "2206042",
+      "gmina_miejska_kod": "2206011",
+      "miasto_populacja": 23698,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        17.9781656,
+        54.1210215
+      ]
+    },
+    {
+      "nazwa": "Krasnystaw",
+      "miasto": "Krasnystaw",
+      "gmina_wiejska_kod": "0606052",
+      "gmina_miejska_kod": "0606011",
+      "miasto_populacja": 18254,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        23.1697933,
+        50.982996
+      ]
+    },
+    {
+      "nazwa": "Kraśnik",
+      "miasto": "Kraśnik",
+      "gmina_wiejska_kod": "0607052",
+      "gmina_miejska_kod": "0607011",
+      "miasto_populacja": 33638,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.229206,
+        50.9249236
+      ]
+    },
+    {
+      "nazwa": "Kutno",
+      "miasto": "Kutno",
+      "gmina_wiejska_kod": "1002062",
+      "gmina_miejska_kod": "1002011",
+      "miasto_populacja": 43051,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.3570182,
+        52.2317559
+      ]
+    },
+    {
+      "nazwa": "Kwidzyn",
+      "miasto": "Kwidzyn",
+      "gmina_wiejska_kod": "2207032",
+      "gmina_miejska_kod": "2207011",
+      "miasto_populacja": 38179,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.9319222,
+        53.7335842
+      ]
+    },
+    {
+      "nazwa": "Kętrzyn",
+      "miasto": "Kętrzyn",
+      "gmina_wiejska_kod": "2808032",
+      "gmina_miejska_kod": "2808011",
+      "miasto_populacja": 26609,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.3752627,
+        54.0764176
+      ]
+    },
+    {
+      "nazwa": "Kłodzko",
+      "miasto": "Kłodzko",
+      "gmina_wiejska_kod": "0208072",
+      "gmina_miejska_kod": "0208021",
+      "miasto_populacja": 26172,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.6551878,
+        50.438651
+      ]
+    },
+    {
+      "nazwa": "Leżajsk",
+      "miasto": "Leżajsk",
+      "gmina_wiejska_kod": "1808042",
+      "gmina_miejska_kod": "1808011",
+      "miasto_populacja": 13492,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.418892,
+        50.2621687
+      ]
+    },
+    {
+      "nazwa": "Lidzbark Warmiński",
+      "miasto": "Lidzbark Warmiński",
+      "gmina_wiejska_kod": "2809032",
+      "gmina_miejska_kod": "2809011",
+      "miasto_populacja": 15420,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.5805641,
+        54.1259406
+      ]
+    },
+    {
+      "nazwa": "Limanowa",
+      "miasto": "Limanowa",
+      "gmina_wiejska_kod": "1207072",
+      "gmina_miejska_kod": "1207011",
+      "miasto_populacja": 15028,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.4217266,
+        49.7061713
+      ]
+    },
+    {
+      "nazwa": "Lipno",
+      "miasto": "Lipno",
+      "gmina_wiejska_kod": "0408062",
+      "gmina_miejska_kod": "0408011",
+      "miasto_populacja": 14219,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.1792654,
+        52.8473901
+      ]
+    },
+    {
+      "nazwa": "Lubaczów",
+      "miasto": "Lubaczów",
+      "gmina_wiejska_kod": "1809042",
+      "gmina_miejska_kod": "1809011",
+      "miasto_populacja": 11744,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        23.1225859,
+        50.1574473
+      ]
+    },
+    {
+      "nazwa": "Lubartów",
+      "miasto": "Lubartów",
+      "gmina_wiejska_kod": "0608072",
+      "gmina_miejska_kod": "0608011",
+      "miasto_populacja": 21488,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.6052895,
+        51.4660473
+      ]
+    },
+    {
+      "nazwa": "Lubawa",
+      "miasto": "Lubawa",
+      "gmina_wiejska_kod": "2807052",
+      "gmina_miejska_kod": "2807021",
+      "miasto_populacja": 10369,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.7494057,
+        53.5051482
+      ]
+    },
+    {
+      "nazwa": "Lubań",
+      "miasto": "Lubań",
+      "gmina_wiejska_kod": "0210042",
+      "gmina_miejska_kod": "0210011",
+      "miasto_populacja": 20573,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.2892651,
+        51.1180898
+      ]
+    },
+    {
+      "nazwa": "Lubin",
+      "miasto": "Lubin",
+      "gmina_wiejska_kod": "0211022",
+      "gmina_miejska_kod": "0211011",
+      "miasto_populacja": 71278,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.2051275,
+        51.3974465
+      ]
+    },
+    {
+      "nazwa": "Malbork",
+      "miasto": "Malbork",
+      "gmina_wiejska_kod": "2209042",
+      "gmina_miejska_kod": "2209011",
+      "miasto_populacja": 37898,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.0368496,
+        54.0358356
+      ]
+    },
+    {
+      "nazwa": "Mielec",
+      "miasto": "Mielec",
+      "gmina_wiejska_kod": "1811052",
+      "gmina_miejska_kod": "1811011",
+      "miasto_populacja": 59754,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.4229453,
+        50.2895407
+      ]
+    },
+    {
+      "nazwa": "Międzyrzec Podlaski",
+      "miasto": "Międzyrzec Podlaski",
+      "gmina_wiejska_kod": "0601102",
+      "gmina_miejska_kod": "0601011",
+      "miasto_populacja": 16572,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.7842492,
+        51.9853172
+      ]
+    },
+    {
+      "nazwa": "Mińsk Mazowiecki",
+      "miasto": "Mińsk Mazowiecki",
+      "gmina_wiejska_kod": "1412112",
+      "gmina_miejska_kod": "1412011",
+      "miasto_populacja": 40816,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.5587372,
+        52.1812046
+      ]
+    },
+    {
+      "nazwa": "Mrągowo",
+      "miasto": "Mrągowo",
+      "gmina_wiejska_kod": "2810032",
+      "gmina_miejska_kod": "2810011",
+      "miasto_populacja": 21179,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.3045796,
+        53.8660707
+      ]
+    },
+    {
+      "nazwa": "Mszana Dolna",
+      "miasto": "Mszana Dolna",
+      "gmina_wiejska_kod": "1207092",
+      "gmina_miejska_kod": "1207021",
+      "miasto_populacja": 7889,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.0820073,
+        49.6779756
+      ]
+    },
+    {
+      "nazwa": "Nowa Ruda",
+      "miasto": "Nowa Ruda",
+      "gmina_wiejska_kod": "0208112",
+      "gmina_miejska_kod": "0208041",
+      "miasto_populacja": 21386,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.5014757,
+        50.5791982
+      ]
+    },
+    {
+      "nazwa": "Nowa Sól",
+      "miasto": "Nowa Sól",
+      "gmina_wiejska_kod": "0804052",
+      "gmina_miejska_kod": "0804011",
+      "miasto_populacja": 37931,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.7175608,
+        51.8019595
+      ]
+    },
+    {
+      "nazwa": "Nowy Targ",
+      "miasto": "Nowy Targ",
+      "gmina_wiejska_kod": "1211092",
+      "gmina_miejska_kod": "1211011",
+      "miasto_populacja": 33212,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.030541,
+        49.4818229
+      ]
+    },
+    {
+      "nazwa": "Obrzycko",
+      "miasto": "Obrzycko",
+      "gmina_wiejska_kod": "3024042",
+      "gmina_miejska_kod": "3024011",
+      "miasto_populacja": 2376,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.5252416,
+        52.7064375
+      ]
+    },
+    {
+      "nazwa": "Oleśnica",
+      "miasto": "Oleśnica",
+      "gmina_wiejska_kod": "0214062",
+      "gmina_miejska_kod": "0214011",
+      "miasto_populacja": 36757,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        17.3804559,
+        51.2095314
+      ]
+    },
+    {
+      "nazwa": "Ostróda",
+      "miasto": "Ostróda",
+      "gmina_wiejska_kod": "2815092",
+      "gmina_miejska_kod": "2815011",
+      "miasto_populacja": 32547,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.9623028,
+        53.7028533
+      ]
+    },
+    {
+      "nazwa": "Ostrów Mazowiecka",
+      "miasto": "Ostrów Mazowiecka",
+      "gmina_wiejska_kod": "1416072",
+      "gmina_miejska_kod": "1416011",
+      "miasto_populacja": 22160,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.897638,
+        52.8000429
+      ]
+    },
+    {
+      "nazwa": "Ostrów Wielkopolski",
+      "miasto": "Ostrów Wielkopolski",
+      "gmina_wiejska_kod": "3017042",
+      "gmina_miejska_kod": "3017011",
+      "miasto_populacja": 71254,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        17.8167085,
+        51.6495023
+      ]
+    },
+    {
+      "nazwa": "Ozorków",
+      "miasto": "Ozorków",
+      "gmina_wiejska_kod": "1020062",
+      "gmina_miejska_kod": "1020021",
+      "miasto_populacja": 18988,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.2918111,
+        51.9636101
+      ]
+    },
+    {
+      "nazwa": "Oława",
+      "miasto": "Oława",
+      "gmina_wiejska_kod": "0215042",
+      "gmina_miejska_kod": "0215011",
+      "miasto_populacja": 33051,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        17.2957066,
+        50.9431901
+      ]
+    },
+    {
+      "nazwa": "Oświęcim",
+      "miasto": "Oświęcim",
+      "gmina_wiejska_kod": "1213062",
+      "gmina_miejska_kod": "1213011",
+      "miasto_populacja": 37231,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.2214053,
+        50.0382443
+      ]
+    },
+    {
+      "nazwa": "Pabianice",
+      "miasto": "Pabianice",
+      "gmina_wiejska_kod": "1008072",
+      "gmina_miejska_kod": "1008021",
+      "miasto_populacja": 63479,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.3535024,
+        51.6639859
+      ]
+    },
+    {
+      "nazwa": "Pionki",
+      "miasto": "Pionki",
+      "gmina_wiejska_kod": "1425082",
+      "gmina_miejska_kod": "1425011",
+      "miasto_populacja": 17735,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.4438404,
+        51.4730031
+      ]
+    },
+    {
+      "nazwa": "Pruszcz Gdański",
+      "miasto": "Pruszcz Gdański",
+      "gmina_wiejska_kod": "2204042",
+      "gmina_miejska_kod": "2204011",
+      "miasto_populacja": 31822,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.6461908,
+        54.2608539
+      ]
+    },
+    {
+      "nazwa": "Przasnysz",
+      "miasto": "Przasnysz",
+      "gmina_wiejska_kod": "1422072",
+      "gmina_miejska_kod": "1422011",
+      "miasto_populacja": 16979,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.8804028,
+        53.0190219
+      ]
+    },
+    {
+      "nazwa": "Przemyśl",
+      "miasto": "Przemyśl",
+      "gmina_wiejska_kod": "1813082",
+      "gmina_miejska_kod": "1862011",
+      "miasto_populacja": 59337,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        22.7698454,
+        49.7845132
+      ]
+    },
+    {
+      "nazwa": "Przeworsk",
+      "miasto": "Przeworsk",
+      "gmina_wiejska_kod": "1814062",
+      "gmina_miejska_kod": "1814011",
+      "miasto_populacja": 15017,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.4923769,
+        50.0601735
+      ]
+    },
+    {
+      "nazwa": "Puck",
+      "miasto": "Puck",
+      "gmina_wiejska_kod": "2211072",
+      "gmina_miejska_kod": "2211031",
+      "miasto_populacja": 11089,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.411338,
+        54.7203995
+      ]
+    },
+    {
+      "nazwa": "Puławy",
+      "miasto": "Puławy",
+      "gmina_wiejska_kod": "0614092",
+      "gmina_miejska_kod": "0614011",
+      "miasto_populacja": 46664,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.9720582,
+        51.4171713
+      ]
+    },
+    {
+      "nazwa": "Płońsk",
+      "miasto": "Płońsk",
+      "gmina_wiejska_kod": "1420092",
+      "gmina_miejska_kod": "1420011",
+      "miasto_populacja": 21846,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.3705091,
+        52.6226617
+      ]
+    },
+    {
+      "nazwa": "Raciąż",
+      "miasto": "Raciąż",
+      "gmina_wiejska_kod": "1420102",
+      "gmina_miejska_kod": "1420021",
+      "miasto_populacja": 4347,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.118111,
+        52.7810586
+      ]
+    },
+    {
+      "nazwa": "Radomsko",
+      "miasto": "Radomsko",
+      "gmina_wiejska_kod": "1012122",
+      "gmina_miejska_kod": "1012011",
+      "miasto_populacja": 44977,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.4446109,
+        51.0674769
+      ]
+    },
+    {
+      "nazwa": "Radymno",
+      "miasto": "Radymno",
+      "gmina_wiejska_kod": "1804082",
+      "gmina_miejska_kod": "1804021",
+      "miasto_populacja": 5193,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.8183129,
+        49.9517176
+      ]
+    },
+    {
+      "nazwa": "Radziejów",
+      "miasto": "Radziejów",
+      "gmina_wiejska_kod": "0411062",
+      "gmina_miejska_kod": "0411011",
+      "miasto_populacja": 5438,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.5269434,
+        52.6251015
+      ]
+    },
+    {
+      "nazwa": "Radzyń Podlaski",
+      "miasto": "Radzyń Podlaski",
+      "gmina_wiejska_kod": "0615062",
+      "gmina_miejska_kod": "0615011",
+      "miasto_populacja": 15330,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.6208818,
+        51.7827253
+      ]
+    },
+    {
+      "nazwa": "Rawa Mazowiecka",
+      "miasto": "Rawa Mazowiecka",
+      "gmina_wiejska_kod": "1013042",
+      "gmina_miejska_kod": "1013011",
+      "miasto_populacja": 17119,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.2519293,
+        51.7624929
+      ]
+    },
+    {
+      "nazwa": "Redzikowo",
+      "miasto": "Słupsk",
+      "gmina_wiejska_kod": "2212082",
+      "gmina_miejska_kod": "2263011",
+      "miasto_populacja": 89180,
+      "link_via": "export_hint_wojewodztwo",
+      "wspolrzedne": [
+        17.028073,
+        54.4649331
+      ]
+    },
+    {
+      "nazwa": "Rejowiec Fabryczny",
+      "miasto": "Rejowiec Fabryczny",
+      "gmina_wiejska_kod": "0603082",
+      "gmina_miejska_kod": "0603011",
+      "miasto_populacja": 4293,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        23.2467333,
+        51.1191844
+      ]
+    },
+    {
+      "nazwa": "Rypin",
+      "miasto": "Rypin",
+      "gmina_wiejska_kod": "0412042",
+      "gmina_miejska_kod": "0412011",
+      "miasto_populacja": 15915,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.4060273,
+        53.0672809
+      ]
+    },
+    {
+      "nazwa": "Ryńsk",
+      "miasto": "Wąbrzeźno",
+      "gmina_wiejska_kod": "0417052",
+      "gmina_miejska_kod": "0417011",
+      "miasto_populacja": 13326,
+      "link_via": "export_hint_powiat",
+      "wspolrzedne": [
+        18.947293,
+        53.2799665
+      ]
+    },
+    {
+      "nazwa": "Sanok",
+      "miasto": "Sanok",
+      "gmina_wiejska_kod": "1817052",
+      "gmina_miejska_kod": "1817011",
+      "miasto_populacja": 36703,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.207028,
+        49.5609053
+      ]
+    },
+    {
+      "nazwa": "Sejny",
+      "miasto": "Sejny",
+      "gmina_wiejska_kod": "2009052",
+      "gmina_miejska_kod": "2009011",
+      "miasto_populacja": 5124,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        23.3496591,
+        54.105725
+      ]
+    },
+    {
+      "nazwa": "Siedlce",
+      "miasto": "Siedlce",
+      "gmina_wiejska_kod": "1426082",
+      "gmina_miejska_kod": "1464011",
+      "miasto_populacja": 77645,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        22.2765138,
+        52.1663751
+      ]
+    },
+    {
+      "nazwa": "Siemiatycze",
+      "miasto": "Siemiatycze",
+      "gmina_wiejska_kod": "2010092",
+      "gmina_miejska_kod": "2010011",
+      "miasto_populacja": 14131,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.8627258,
+        52.4278979
+      ]
+    },
+    {
+      "nazwa": "Sieradz",
+      "miasto": "Sieradz",
+      "gmina_wiejska_kod": "1014082",
+      "gmina_miejska_kod": "1014011",
+      "miasto_populacja": 41142,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.7378774,
+        51.5942475
+      ]
+    },
+    {
+      "nazwa": "Sierpc",
+      "miasto": "Sierpc",
+      "gmina_wiejska_kod": "1427052",
+      "gmina_miejska_kod": "1427011",
+      "miasto_populacja": 17698,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.6675433,
+        52.8529055
+      ]
+    },
+    {
+      "nazwa": "Skierniewice",
+      "miasto": "Skierniewice",
+      "gmina_wiejska_kod": "1015082",
+      "gmina_miejska_kod": "1063011",
+      "miasto_populacja": 47493,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        20.1430044,
+        51.9568581
+      ]
+    },
+    {
+      "nazwa": "Skórcz",
+      "miasto": "Skórcz",
+      "gmina_wiejska_kod": "2213102",
+      "gmina_miejska_kod": "2213021",
+      "miasto_populacja": 3585,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.52432,
+        53.79455
+      ]
+    },
+    {
+      "nazwa": "Sochaczew",
+      "miasto": "Sochaczew",
+      "gmina_wiejska_kod": "1428072",
+      "gmina_miejska_kod": "1428011",
+      "miasto_populacja": 35684,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.2379379,
+        52.2296562
+      ]
+    },
+    {
+      "nazwa": "Sokołów Podlaski",
+      "miasto": "Sokołów Podlaski",
+      "gmina_wiejska_kod": "1429082",
+      "gmina_miejska_kod": "1429011",
+      "miasto_populacja": 18782,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.2525679,
+        52.4081717
+      ]
+    },
+    {
+      "nazwa": "Stargard",
+      "miasto": "Stargard",
+      "gmina_wiejska_kod": "3214102",
+      "gmina_miejska_kod": "3214011",
+      "miasto_populacja": 67430,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.0350493,
+        53.3379935
+      ]
+    },
+    {
+      "nazwa": "Starogard Gdański",
+      "miasto": "Starogard Gdański",
+      "gmina_wiejska_kod": "2213122",
+      "gmina_miejska_kod": "2213031",
+      "miasto_populacja": 47037,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.532113,
+        53.9671805
+      ]
+    },
+    {
+      "nazwa": "Stoczek Łukowski",
+      "miasto": "Stoczek Łukowski",
+      "gmina_wiejska_kod": "0611082",
+      "gmina_miejska_kod": "0611021",
+      "miasto_populacja": 2457,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.9697078,
+        51.9617406
+      ]
+    },
+    {
+      "nazwa": "Suwałki",
+      "miasto": "Suwałki",
+      "gmina_wiejska_kod": "2012072",
+      "gmina_miejska_kod": "2063011",
+      "miasto_populacja": 69575,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        22.9279363,
+        54.0990636
+      ]
+    },
+    {
+      "nazwa": "Szczecinek",
+      "miasto": "Szczecinek",
+      "gmina_wiejska_kod": "3215062",
+      "gmina_miejska_kod": "3215011",
+      "miasto_populacja": 39705,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.6943922,
+        53.708021
+      ]
+    },
+    {
+      "nazwa": "Szczytno",
+      "miasto": "Szczytno",
+      "gmina_wiejska_kod": "2817062",
+      "gmina_miejska_kod": "2817011",
+      "miasto_populacja": 22671,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.991589,
+        53.565489
+      ]
+    },
+    {
+      "nazwa": "Sławno",
+      "miasto": "Sławno",
+      "gmina_wiejska_kod": "3213062",
+      "gmina_miejska_kod": "3213021",
+      "miasto_populacja": 12288,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.6789071,
+        54.3629824
+      ]
+    },
+    {
+      "nazwa": "Słupca",
+      "miasto": "Słupca",
+      "gmina_wiejska_kod": "3023062",
+      "gmina_miejska_kod": "3023011",
+      "miasto_populacja": 13505,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        17.8713612,
+        52.2872924
+      ]
+    },
+    {
+      "nazwa": "Tarnów",
+      "miasto": "Tarnów",
+      "gmina_wiejska_kod": "1216092",
+      "gmina_miejska_kod": "1263011",
+      "miasto_populacja": 106748,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        20.9880739,
+        50.0123784
+      ]
+    },
+    {
+      "nazwa": "Tczew",
+      "miasto": "Tczew",
+      "gmina_wiejska_kod": "2214062",
+      "gmina_miejska_kod": "2214011",
+      "miasto_populacja": 59105,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.8000293,
+        54.0869532
+      ]
+    },
+    {
+      "nazwa": "Terespol",
+      "miasto": "Terespol",
+      "gmina_wiejska_kod": "0601162",
+      "gmina_miejska_kod": "0601021",
+      "miasto_populacja": 5428,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        23.6133645,
+        52.0756167
+      ]
+    },
+    {
+      "nazwa": "Tomaszów Lubelski",
+      "miasto": "Tomaszów Lubelski",
+      "gmina_wiejska_kod": "0618112",
+      "gmina_miejska_kod": "0618011",
+      "miasto_populacja": 18612,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        23.4165561,
+        50.4469315
+      ]
+    },
+    {
+      "nazwa": "Tomaszów Mazowiecki",
+      "miasto": "Tomaszów Mazowiecki",
+      "gmina_wiejska_kod": "1016092",
+      "gmina_miejska_kod": "1016011",
+      "miasto_populacja": 60860,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        20.0084195,
+        51.5316918
+      ]
+    },
+    {
+      "nazwa": "Turek",
+      "miasto": "Turek",
+      "gmina_wiejska_kod": "3027082",
+      "gmina_miejska_kod": "3027011",
+      "miasto_populacja": 26201,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.50191,
+        52.01595
+      ]
+    },
+    {
+      "nazwa": "Ustka",
+      "miasto": "Ustka",
+      "gmina_wiejska_kod": "2212102",
+      "gmina_miejska_kod": "2212011",
+      "miasto_populacja": 15047,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.8612962,
+        54.5811254
+      ]
+    },
+    {
+      "nazwa": "Wałcz",
+      "miasto": "Wałcz",
+      "gmina_wiejska_kod": "3217052",
+      "gmina_miejska_kod": "3217011",
+      "miasto_populacja": 24802,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.4670655,
+        53.269745
+      ]
+    },
+    {
+      "nazwa": "Wejherowo",
+      "miasto": "Wejherowo",
+      "gmina_wiejska_kod": "2215102",
+      "gmina_miejska_kod": "2215031",
+      "miasto_populacja": 48735,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.247934,
+        54.6026348
+      ]
+    },
+    {
+      "nazwa": "Wysokie Mazowieckie",
+      "miasto": "Wysokie Mazowieckie",
+      "gmina_wiejska_kod": "2013102",
+      "gmina_miejska_kod": "2013011",
+      "miasto_populacja": 9304,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.5131199,
+        52.9154988
+      ]
+    },
+    {
+      "nazwa": "Wągrowiec",
+      "miasto": "Wągrowiec",
+      "gmina_wiejska_kod": "3028072",
+      "gmina_miejska_kod": "3028011",
+      "miasto_populacja": 25526,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        17.1973241,
+        52.8071754
+      ]
+    },
+    {
+      "nazwa": "Włocławek",
+      "miasto": "Włocławek",
+      "gmina_wiejska_kod": "0418132",
+      "gmina_miejska_kod": "0464011",
+      "miasto_populacja": 107745,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        19.071948,
+        52.6603872
+      ]
+    },
+    {
+      "nazwa": "Włodawa",
+      "miasto": "Włodawa",
+      "gmina_wiejska_kod": "0619062",
+      "gmina_miejska_kod": "0619011",
+      "miasto_populacja": 12839,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        23.553219,
+        51.5466412
+      ]
+    },
+    {
+      "nazwa": "Zambrów",
+      "miasto": "Zambrów",
+      "gmina_wiejska_kod": "2014052",
+      "gmina_miejska_kod": "2014011",
+      "miasto_populacja": 21853,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.24117,
+        52.98552
+      ]
+    },
+    {
+      "nazwa": "Zamość",
+      "miasto": "Zamość",
+      "gmina_wiejska_kod": "0620142",
+      "gmina_miejska_kod": "0664011",
+      "miasto_populacja": 62368,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        23.2525711,
+        50.7170854
+      ]
+    },
+    {
+      "nazwa": "Zduńska Wola",
+      "miasto": "Zduńska Wola",
+      "gmina_wiejska_kod": "1019042",
+      "gmina_miejska_kod": "1019011",
+      "miasto_populacja": 40996,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        18.9333201,
+        51.6028615
+      ]
+    },
+    {
+      "nazwa": "Zgierz",
+      "miasto": "Zgierz",
+      "gmina_wiejska_kod": "1020092",
+      "gmina_miejska_kod": "1020031",
+      "miasto_populacja": 55272,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.4052228,
+        51.8560819
+      ]
+    },
+    {
+      "nazwa": "Zgorzelec",
+      "miasto": "Zgorzelec",
+      "gmina_wiejska_kod": "0225072",
+      "gmina_miejska_kod": "0225021",
+      "miasto_populacja": 29534,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.0079028,
+        51.1477005
+      ]
+    },
+    {
+      "nazwa": "Złotoryja",
+      "miasto": "Złotoryja",
+      "gmina_wiejska_kod": "0226062",
+      "gmina_miejska_kod": "0226021",
+      "miasto_populacja": 15119,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.9169833,
+        51.1247624
+      ]
+    },
+    {
+      "nazwa": "Złotów",
+      "miasto": "Złotów",
+      "gmina_wiejska_kod": "3031082",
+      "gmina_miejska_kod": "3031011",
+      "miasto_populacja": 18373,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        17.034694,
+        53.3631938
+      ]
+    },
+    {
+      "nazwa": "Łaskarzew",
+      "miasto": "Łaskarzew",
+      "gmina_wiejska_kod": "1403062",
+      "gmina_miejska_kod": "1403021",
+      "miasto_populacja": 4505,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        21.5921883,
+        51.7889644
+      ]
+    },
+    {
+      "nazwa": "Łańcut",
+      "miasto": "Łańcut",
+      "gmina_wiejska_kod": "1810042",
+      "gmina_miejska_kod": "1810011",
+      "miasto_populacja": 17627,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.2320924,
+        50.0690725
+      ]
+    },
+    {
+      "nazwa": "Łomża",
+      "miasto": "Łomża",
+      "gmina_wiejska_kod": "2007022",
+      "gmina_miejska_kod": "2062011",
+      "miasto_populacja": 62278,
+      "link_via": "wojewodztwo",
+      "wspolrzedne": [
+        22.0727551,
+        53.1750699
+      ]
+    },
+    {
+      "nazwa": "Łowicz",
+      "miasto": "Łowicz",
+      "gmina_wiejska_kod": "1005072",
+      "gmina_miejska_kod": "1005011",
+      "miasto_populacja": 27687,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.9447873,
+        52.107683
+      ]
+    },
+    {
+      "nazwa": "Łuków",
+      "miasto": "Łuków",
+      "gmina_wiejska_kod": "0611052",
+      "gmina_miejska_kod": "0611011",
+      "miasto_populacja": 29286,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        22.3790669,
+        51.93008
+      ]
+    },
+    {
+      "nazwa": "Łęczyca",
+      "miasto": "Łęczyca",
+      "gmina_wiejska_kod": "1004052",
+      "gmina_miejska_kod": "1004011",
+      "miasto_populacja": 13664,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        19.2016434,
+        52.0593858
+      ]
+    },
+    {
+      "nazwa": "Świdnica",
+      "miasto": "Świdnica",
+      "gmina_wiejska_kod": "0219072",
+      "gmina_miejska_kod": "0219011",
+      "miasto_populacja": 55800,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        16.4870549,
+        50.8424835
+      ]
+    },
+    {
+      "nazwa": "Świdwin",
+      "miasto": "Świdwin",
+      "gmina_wiejska_kod": "3216062",
+      "gmina_miejska_kod": "3216011",
+      "miasto_populacja": 15268,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.7767962,
+        53.774596
+      ]
+    },
+    {
+      "nazwa": "Żagań",
+      "miasto": "Żagań",
+      "gmina_wiejska_kod": "0810092",
+      "gmina_miejska_kod": "0810021",
+      "miasto_populacja": 25110,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.3203721,
+        51.6148068
+      ]
+    },
+    {
+      "nazwa": "Żary",
+      "miasto": "Żary",
+      "gmina_wiejska_kod": "0811102",
+      "gmina_miejska_kod": "0811021",
+      "miasto_populacja": 36783,
+      "link_via": "powiat",
+      "wspolrzedne": [
+        15.1422487,
+        51.6385162
+      ]
+    }
+  ]
+}

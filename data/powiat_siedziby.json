@@ -1,0 +1,2665 @@
+{
+  "zrodlo": "gmina miejska w powiecie + dopasowanie nazwy + wyjątki",
+  "pozycje": [
+    {
+      "powiat_teryt": "0661",
+      "powiat_nazwa": "Biała Podlaska",
+      "siedziba": "Biała Podlaska",
+      "siedziba_rozwiązana": "Biała Podlaska",
+      "gmina_kod": "0661011"
+    },
+    {
+      "powiat_teryt": "2061",
+      "powiat_nazwa": "Białystok",
+      "siedziba": "Białystok",
+      "siedziba_rozwiązana": "Białystok",
+      "gmina_kod": "2061011"
+    },
+    {
+      "powiat_teryt": "2461",
+      "powiat_nazwa": "Bielsko-Biała",
+      "siedziba": "Bielsko",
+      "siedziba_rozwiązana": "Bielsko-Biała",
+      "gmina_kod": "2461011"
+    },
+    {
+      "powiat_teryt": "0461",
+      "powiat_nazwa": "Bydgoszcz",
+      "siedziba": "Bydgoszcz",
+      "siedziba_rozwiązana": "Bydgoszcz",
+      "gmina_kod": "0461011"
+    },
+    {
+      "powiat_teryt": "2462",
+      "powiat_nazwa": "Bytom",
+      "siedziba": "Bytom",
+      "siedziba_rozwiązana": "Bytom",
+      "gmina_kod": "2462011"
+    },
+    {
+      "powiat_teryt": "0662",
+      "powiat_nazwa": "Chełm",
+      "siedziba": "Chełm",
+      "siedziba_rozwiązana": "Chełm",
+      "gmina_kod": "0662011"
+    },
+    {
+      "powiat_teryt": "2463",
+      "powiat_nazwa": "Chorzów",
+      "siedziba": "Chorzów",
+      "siedziba_rozwiązana": "Chorzów",
+      "gmina_kod": "2463011"
+    },
+    {
+      "powiat_teryt": "2464",
+      "powiat_nazwa": "Częstochowa",
+      "siedziba": "Częstochowa",
+      "siedziba_rozwiązana": "Częstochowa",
+      "gmina_kod": "2464011"
+    },
+    {
+      "powiat_teryt": "2465",
+      "powiat_nazwa": "Dąbrowa Górnicza",
+      "siedziba": "Dąbrowa Górnicza",
+      "siedziba_rozwiązana": "Dąbrowa Górnicza",
+      "gmina_kod": "2465011"
+    },
+    {
+      "powiat_teryt": "2861",
+      "powiat_nazwa": "Elbląg",
+      "siedziba": "Elbląg",
+      "siedziba_rozwiązana": "Elbląg",
+      "gmina_kod": "2861011"
+    },
+    {
+      "powiat_teryt": "2261",
+      "powiat_nazwa": "Gdańsk",
+      "siedziba": "Gdańsk",
+      "siedziba_rozwiązana": "Gdańsk",
+      "gmina_kod": "2261011"
+    },
+    {
+      "powiat_teryt": "2262",
+      "powiat_nazwa": "Gdynia",
+      "siedziba": "Gdynia",
+      "siedziba_rozwiązana": "Gdynia",
+      "gmina_kod": "2262011"
+    },
+    {
+      "powiat_teryt": "2466",
+      "powiat_nazwa": "Gliwice",
+      "siedziba": "Gliwice",
+      "siedziba_rozwiązana": "Gliwice",
+      "gmina_kod": "2466011"
+    },
+    {
+      "powiat_teryt": "0861",
+      "powiat_nazwa": "Gorzów Wielkopolski",
+      "siedziba": "Gorzów Wielkopolski",
+      "siedziba_rozwiązana": "Gorzów Wielkopolski",
+      "gmina_kod": "0861011"
+    },
+    {
+      "powiat_teryt": "0462",
+      "powiat_nazwa": "Grudziądz",
+      "siedziba": "Grudziądz",
+      "siedziba_rozwiązana": "Grudziądz",
+      "gmina_kod": "0462011"
+    },
+    {
+      "powiat_teryt": "2467",
+      "powiat_nazwa": "Jastrzębie-Zdrój",
+      "siedziba": "Jastrzębie",
+      "siedziba_rozwiązana": "Jastrzębie-Zdrój",
+      "gmina_kod": "2467011"
+    },
+    {
+      "powiat_teryt": "2468",
+      "powiat_nazwa": "Jaworzno",
+      "siedziba": "Jaworzno",
+      "siedziba_rozwiązana": "Jaworzno",
+      "gmina_kod": "2468011"
+    },
+    {
+      "powiat_teryt": "0261",
+      "powiat_nazwa": "Jelenia Góra",
+      "siedziba": "Jelenia Góra",
+      "siedziba_rozwiązana": "Jelenia Góra",
+      "gmina_kod": "0261011"
+    },
+    {
+      "powiat_teryt": "3061",
+      "powiat_nazwa": "Kalisz",
+      "siedziba": "Kalisz",
+      "siedziba_rozwiązana": "Kalisz",
+      "gmina_kod": "3061011"
+    },
+    {
+      "powiat_teryt": "2469",
+      "powiat_nazwa": "Katowice",
+      "siedziba": "Katowice",
+      "siedziba_rozwiązana": "Katowice",
+      "gmina_kod": "2469011"
+    },
+    {
+      "powiat_teryt": "2661",
+      "powiat_nazwa": "Kielce",
+      "siedziba": "Kielce",
+      "siedziba_rozwiązana": "Kielce",
+      "gmina_kod": "2661011"
+    },
+    {
+      "powiat_teryt": "3062",
+      "powiat_nazwa": "Konin",
+      "siedziba": "Konin",
+      "siedziba_rozwiązana": "Konin",
+      "gmina_kod": "3062011"
+    },
+    {
+      "powiat_teryt": "3261",
+      "powiat_nazwa": "Koszalin",
+      "siedziba": "Koszalin",
+      "siedziba_rozwiązana": "Koszalin",
+      "gmina_kod": "3261011"
+    },
+    {
+      "powiat_teryt": "1261",
+      "powiat_nazwa": "Kraków",
+      "siedziba": "Kraków",
+      "siedziba_rozwiązana": "Kraków",
+      "gmina_kod": "1261011"
+    },
+    {
+      "powiat_teryt": "1861",
+      "powiat_nazwa": "Krosno",
+      "siedziba": "Krosno",
+      "siedziba_rozwiązana": "Krosno",
+      "gmina_kod": "1861011"
+    },
+    {
+      "powiat_teryt": "0262",
+      "powiat_nazwa": "Legnica",
+      "siedziba": "Legnica",
+      "siedziba_rozwiązana": "Legnica",
+      "gmina_kod": "0262011"
+    },
+    {
+      "powiat_teryt": "3063",
+      "powiat_nazwa": "Leszno",
+      "siedziba": "Leszno",
+      "siedziba_rozwiązana": "Leszno",
+      "gmina_kod": "3063011"
+    },
+    {
+      "powiat_teryt": "0663",
+      "powiat_nazwa": "Lublin",
+      "siedziba": "Lublin",
+      "siedziba_rozwiązana": "Lublin",
+      "gmina_kod": "0663011"
+    },
+    {
+      "powiat_teryt": "2470",
+      "powiat_nazwa": "Mysłowice",
+      "siedziba": "Mysłowice",
+      "siedziba_rozwiązana": "Mysłowice",
+      "gmina_kod": "2470011"
+    },
+    {
+      "powiat_teryt": "1262",
+      "powiat_nazwa": "Nowy Sącz",
+      "siedziba": "Nowy Sącz",
+      "siedziba_rozwiązana": "Nowy Sącz",
+      "gmina_kod": "1262011"
+    },
+    {
+      "powiat_teryt": "2862",
+      "powiat_nazwa": "Olsztyn",
+      "siedziba": "Olsztyn",
+      "siedziba_rozwiązana": "Olsztyn",
+      "gmina_kod": "2862011"
+    },
+    {
+      "powiat_teryt": "1661",
+      "powiat_nazwa": "Opole",
+      "siedziba": "Opole",
+      "siedziba_rozwiązana": "Opole",
+      "gmina_kod": "1661011"
+    },
+    {
+      "powiat_teryt": "1461",
+      "powiat_nazwa": "Ostrołęka",
+      "siedziba": "Ostrołęka",
+      "siedziba_rozwiązana": "Ostrołęka",
+      "gmina_kod": "1461011"
+    },
+    {
+      "powiat_teryt": "2471",
+      "powiat_nazwa": "Piekary Śląskie",
+      "siedziba": "Piekary Śląskie",
+      "siedziba_rozwiązana": "Piekary Śląskie",
+      "gmina_kod": "2471011"
+    },
+    {
+      "powiat_teryt": "1062",
+      "powiat_nazwa": "Piotrków Trybunalski",
+      "siedziba": "Piotrków Trybunalski",
+      "siedziba_rozwiązana": "Piotrków Trybunalski",
+      "gmina_kod": "1062011"
+    },
+    {
+      "powiat_teryt": "3064",
+      "powiat_nazwa": "Poznań",
+      "siedziba": "Poznań",
+      "siedziba_rozwiązana": "Poznań",
+      "gmina_kod": "3064011"
+    },
+    {
+      "powiat_teryt": "1862",
+      "powiat_nazwa": "Przemyśl",
+      "siedziba": "Przemyśl",
+      "siedziba_rozwiązana": "Przemyśl",
+      "gmina_kod": "1862011"
+    },
+    {
+      "powiat_teryt": "1462",
+      "powiat_nazwa": "Płock",
+      "siedziba": "Płock",
+      "siedziba_rozwiązana": "Płock",
+      "gmina_kod": "1462011"
+    },
+    {
+      "powiat_teryt": "1463",
+      "powiat_nazwa": "Radom",
+      "siedziba": "Radom",
+      "siedziba_rozwiązana": "Radom",
+      "gmina_kod": "1463011"
+    },
+    {
+      "powiat_teryt": "2472",
+      "powiat_nazwa": "Ruda Śląska",
+      "siedziba": "Ruda Śląska",
+      "siedziba_rozwiązana": "Ruda Śląska",
+      "gmina_kod": "2472011"
+    },
+    {
+      "powiat_teryt": "2473",
+      "powiat_nazwa": "Rybnik",
+      "siedziba": "Rybnik",
+      "siedziba_rozwiązana": "Rybnik",
+      "gmina_kod": "2473011"
+    },
+    {
+      "powiat_teryt": "1863",
+      "powiat_nazwa": "Rzeszów",
+      "siedziba": "Rzeszów",
+      "siedziba_rozwiązana": "Rzeszów",
+      "gmina_kod": "1863011"
+    },
+    {
+      "powiat_teryt": "1464",
+      "powiat_nazwa": "Siedlce",
+      "siedziba": "Siedlce",
+      "siedziba_rozwiązana": "Siedlce",
+      "gmina_kod": "1464011"
+    },
+    {
+      "powiat_teryt": "2474",
+      "powiat_nazwa": "Siemianowice Śląskie",
+      "siedziba": "Siemianowice Śląskie",
+      "siedziba_rozwiązana": "Siemianowice Śląskie",
+      "gmina_kod": "2474011"
+    },
+    {
+      "powiat_teryt": "1063",
+      "powiat_nazwa": "Skierniewice",
+      "siedziba": "Skierniewice",
+      "siedziba_rozwiązana": "Skierniewice",
+      "gmina_kod": "1063011"
+    },
+    {
+      "powiat_teryt": "2264",
+      "powiat_nazwa": "Sopot",
+      "siedziba": "Sopot",
+      "siedziba_rozwiązana": "Sopot",
+      "gmina_kod": "2264011"
+    },
+    {
+      "powiat_teryt": "2475",
+      "powiat_nazwa": "Sosnowiec",
+      "siedziba": "Sosnowiec",
+      "siedziba_rozwiązana": "Sosnowiec",
+      "gmina_kod": "2475011"
+    },
+    {
+      "powiat_teryt": "2063",
+      "powiat_nazwa": "Suwałki",
+      "siedziba": "Suwałki",
+      "siedziba_rozwiązana": "Suwałki",
+      "gmina_kod": "2063011"
+    },
+    {
+      "powiat_teryt": "3262",
+      "powiat_nazwa": "Szczecin",
+      "siedziba": "Szczecin",
+      "siedziba_rozwiązana": "Szczecin",
+      "gmina_kod": "3262011"
+    },
+    {
+      "powiat_teryt": "2263",
+      "powiat_nazwa": "Słupsk",
+      "siedziba": "Słupsk",
+      "siedziba_rozwiązana": "Słupsk",
+      "gmina_kod": "2263011"
+    },
+    {
+      "powiat_teryt": "1864",
+      "powiat_nazwa": "Tarnobrzeg",
+      "siedziba": "Tarnobrzeg",
+      "siedziba_rozwiązana": "Tarnobrzeg",
+      "gmina_kod": "1864011"
+    },
+    {
+      "powiat_teryt": "1263",
+      "powiat_nazwa": "Tarnów",
+      "siedziba": "Tarnów",
+      "siedziba_rozwiązana": "Tarnów",
+      "gmina_kod": "1263011"
+    },
+    {
+      "powiat_teryt": "0463",
+      "powiat_nazwa": "Toruń",
+      "siedziba": "Toruń",
+      "siedziba_rozwiązana": "Toruń",
+      "gmina_kod": "0463011"
+    },
+    {
+      "powiat_teryt": "2477",
+      "powiat_nazwa": "Tychy",
+      "siedziba": "Tychy",
+      "siedziba_rozwiązana": "Tychy",
+      "gmina_kod": "2477011"
+    },
+    {
+      "powiat_teryt": "1465",
+      "powiat_nazwa": "Warszawa",
+      "siedziba": "Warszawa",
+      "siedziba_rozwiązana": "Warszawa",
+      "gmina_kod": "1465011"
+    },
+    {
+      "powiat_teryt": "0265",
+      "powiat_nazwa": "Wałbrzych",
+      "siedziba": "Wałbrzych",
+      "siedziba_rozwiązana": "Wałbrzych",
+      "gmina_kod": "0265011"
+    },
+    {
+      "powiat_teryt": "0264",
+      "powiat_nazwa": "Wrocław",
+      "siedziba": "Wrocław",
+      "siedziba_rozwiązana": "Wrocław",
+      "gmina_kod": "0264011"
+    },
+    {
+      "powiat_teryt": "0464",
+      "powiat_nazwa": "Włocławek",
+      "siedziba": "Włocławek",
+      "siedziba_rozwiązana": "Włocławek",
+      "gmina_kod": "0464011"
+    },
+    {
+      "powiat_teryt": "2478",
+      "powiat_nazwa": "Zabrze",
+      "siedziba": "Zabrze",
+      "siedziba_rozwiązana": "Zabrze",
+      "gmina_kod": "2478011"
+    },
+    {
+      "powiat_teryt": "0664",
+      "powiat_nazwa": "Zamość",
+      "siedziba": "Zamość",
+      "siedziba_rozwiązana": "Zamość",
+      "gmina_kod": "0664011"
+    },
+    {
+      "powiat_teryt": "0862",
+      "powiat_nazwa": "Zielona Góra",
+      "siedziba": "Zielona Góra",
+      "siedziba_rozwiązana": "Zielona Góra",
+      "gmina_kod": "0862011"
+    },
+    {
+      "powiat_teryt": "0401",
+      "powiat_nazwa": "aleksandrowski",
+      "siedziba": "Aleksandrów Kujawski",
+      "siedziba_rozwiązana": "Aleksandrów Kujawski",
+      "gmina_kod": "0401011"
+    },
+    {
+      "powiat_teryt": "2001",
+      "powiat_nazwa": "augustowski",
+      "siedziba": "Augustów",
+      "siedziba_rozwiązana": "Augustów",
+      "gmina_kod": "2001011"
+    },
+    {
+      "powiat_teryt": "2801",
+      "powiat_nazwa": "bartoszycki",
+      "siedziba": "Bartoszyce",
+      "siedziba_rozwiązana": "Bartoszyce",
+      "gmina_kod": "2801011"
+    },
+    {
+      "powiat_teryt": "1001",
+      "powiat_nazwa": "bełchatowski",
+      "siedziba": "Bełchatów",
+      "siedziba_rozwiązana": "Bełchatów",
+      "gmina_kod": "1001011"
+    },
+    {
+      "powiat_teryt": "0601",
+      "powiat_nazwa": "bialski",
+      "siedziba": "Międzyrzec Podlaski",
+      "siedziba_rozwiązana": "Międzyrzec Podlaski",
+      "gmina_kod": "0601011"
+    },
+    {
+      "powiat_teryt": "1401",
+      "powiat_nazwa": "białobrzeski",
+      "siedziba": "Białobrzegi",
+      "siedziba_rozwiązana": "Białobrzegi",
+      "gmina_kod": "1401013"
+    },
+    {
+      "powiat_teryt": "3201",
+      "powiat_nazwa": "białogardzki",
+      "siedziba": "Białogard",
+      "siedziba_rozwiązana": "Białogard",
+      "gmina_kod": "3201011"
+    },
+    {
+      "powiat_teryt": "2002",
+      "powiat_nazwa": "białostocki",
+      "siedziba": "Łapy",
+      "siedziba_rozwiązana": "Łapy",
+      "gmina_kod": "2002063"
+    },
+    {
+      "powiat_teryt": "2003",
+      "powiat_nazwa": "bielski",
+      "siedziba": "Bielsk Podlaski",
+      "siedziba_rozwiązana": "Bielsk Podlaski",
+      "gmina_kod": "2003011"
+    },
+    {
+      "powiat_teryt": "2402",
+      "powiat_nazwa": "bielski",
+      "siedziba": "Szczyrk",
+      "siedziba_rozwiązana": "Szczyrk",
+      "gmina_kod": "2402011"
+    },
+    {
+      "powiat_teryt": "2414",
+      "powiat_nazwa": "bieruńsko-lędziński",
+      "siedziba": "Bieruńsko",
+      "siedziba_rozwiązana": "Bieruń",
+      "gmina_kod": "2414011"
+    },
+    {
+      "powiat_teryt": "1801",
+      "powiat_nazwa": "bieszczadzki",
+      "siedziba": "Ustrzyki Dolne",
+      "siedziba_rozwiązana": "Ustrzyki Dolne",
+      "gmina_kod": "1801083"
+    },
+    {
+      "powiat_teryt": "0602",
+      "powiat_nazwa": "biłgorajski",
+      "siedziba": "Biłgoraj",
+      "siedziba_rozwiązana": "Biłgoraj",
+      "gmina_kod": "0602011"
+    },
+    {
+      "powiat_teryt": "1201",
+      "powiat_nazwa": "bocheński",
+      "siedziba": "Bochnia",
+      "siedziba_rozwiązana": "Bochnia",
+      "gmina_kod": "1201011"
+    },
+    {
+      "powiat_teryt": "0201",
+      "powiat_nazwa": "bolesławiecki",
+      "siedziba": "Bolesławiec",
+      "siedziba_rozwiązana": "Bolesławiec",
+      "gmina_kod": "0201011"
+    },
+    {
+      "powiat_teryt": "2802",
+      "powiat_nazwa": "braniewski",
+      "siedziba": "Braniewo",
+      "siedziba_rozwiązana": "Braniewo",
+      "gmina_kod": "2802011"
+    },
+    {
+      "powiat_teryt": "0402",
+      "powiat_nazwa": "brodnicki",
+      "siedziba": "Brodnica",
+      "siedziba_rozwiązana": "Brodnica",
+      "gmina_kod": "0402011"
+    },
+    {
+      "powiat_teryt": "1202",
+      "powiat_nazwa": "brzeski",
+      "siedziba": "Brzesko",
+      "siedziba_rozwiązana": "Brzesko",
+      "gmina_kod": "1202023"
+    },
+    {
+      "powiat_teryt": "1601",
+      "powiat_nazwa": "brzeski",
+      "siedziba": "Brzeg",
+      "siedziba_rozwiązana": "Brzeg",
+      "gmina_kod": "1601011"
+    },
+    {
+      "powiat_teryt": "1021",
+      "powiat_nazwa": "brzeziński",
+      "siedziba": "Brzeziny",
+      "siedziba_rozwiązana": "Brzeziny",
+      "gmina_kod": "1021011"
+    },
+    {
+      "powiat_teryt": "1802",
+      "powiat_nazwa": "brzozowski",
+      "siedziba": "Brzozów",
+      "siedziba_rozwiązana": "Brzozów",
+      "gmina_kod": "1802013"
+    },
+    {
+      "powiat_teryt": "2601",
+      "powiat_nazwa": "buski",
+      "siedziba": "Busko-Zdrój",
+      "siedziba_rozwiązana": "Busko-Zdrój",
+      "gmina_kod": "2601013"
+    },
+    {
+      "powiat_teryt": "0403",
+      "powiat_nazwa": "bydgoski",
+      "siedziba": "Solec Kujawski",
+      "siedziba_rozwiązana": "Solec Kujawski",
+      "gmina_kod": "0403083"
+    },
+    {
+      "powiat_teryt": "2201",
+      "powiat_nazwa": "bytowski",
+      "siedziba": "Bytów",
+      "siedziba_rozwiązana": "Bytów",
+      "gmina_kod": "2201023"
+    },
+    {
+      "powiat_teryt": "2401",
+      "powiat_nazwa": "będziński",
+      "siedziba": "Będzin",
+      "siedziba_rozwiązana": "Będzin",
+      "gmina_kod": "2401011"
+    },
+    {
+      "powiat_teryt": "0404",
+      "powiat_nazwa": "chełmiński",
+      "siedziba": "Chełmno",
+      "siedziba_rozwiązana": "Chełmno",
+      "gmina_kod": "0404011"
+    },
+    {
+      "powiat_teryt": "0603",
+      "powiat_nazwa": "chełmski",
+      "siedziba": "Rejowiec Fabryczny",
+      "siedziba_rozwiązana": "Rejowiec Fabryczny",
+      "gmina_kod": "0603011"
+    },
+    {
+      "powiat_teryt": "3001",
+      "powiat_nazwa": "chodzieski",
+      "siedziba": "Chodzież",
+      "siedziba_rozwiązana": "Chodzież",
+      "gmina_kod": "3001011"
+    },
+    {
+      "powiat_teryt": "2202",
+      "powiat_nazwa": "chojnicki",
+      "siedziba": "Chojnice",
+      "siedziba_rozwiązana": "Chojnice",
+      "gmina_kod": "2202011"
+    },
+    {
+      "powiat_teryt": "3202",
+      "powiat_nazwa": "choszczeński",
+      "siedziba": "Choszczno",
+      "siedziba_rozwiązana": "Choszczno",
+      "gmina_kod": "3202023"
+    },
+    {
+      "powiat_teryt": "1203",
+      "powiat_nazwa": "chrzanowski",
+      "siedziba": "Chrzanów",
+      "siedziba_rozwiązana": "Chrzanów",
+      "gmina_kod": "1203033"
+    },
+    {
+      "powiat_teryt": "1402",
+      "powiat_nazwa": "ciechanowski",
+      "siedziba": "Ciechanów",
+      "siedziba_rozwiązana": "Ciechanów",
+      "gmina_kod": "1402011"
+    },
+    {
+      "powiat_teryt": "2403",
+      "powiat_nazwa": "cieszyński",
+      "siedziba": "Cieszyn",
+      "siedziba_rozwiązana": "Cieszyn",
+      "gmina_kod": "2403011"
+    },
+    {
+      "powiat_teryt": "3002",
+      "powiat_nazwa": "czarnkowsko-trzcianecki",
+      "siedziba": "Czarnków",
+      "siedziba_rozwiązana": "Czarnków",
+      "gmina_kod": "3002011"
+    },
+    {
+      "powiat_teryt": "2404",
+      "powiat_nazwa": "częstochowski",
+      "siedziba": "Blachownia",
+      "siedziba_rozwiązana": "Blachownia",
+      "gmina_kod": "2404013"
+    },
+    {
+      "powiat_teryt": "2203",
+      "powiat_nazwa": "człuchowski",
+      "siedziba": "Człuchów",
+      "siedziba_rozwiązana": "Człuchów",
+      "gmina_kod": "2203011"
+    },
+    {
+      "powiat_teryt": "3203",
+      "powiat_nazwa": "drawski",
+      "siedziba": "Złocieniec",
+      "siedziba_rozwiązana": "Złocieniec",
+      "gmina_kod": "3203063"
+    },
+    {
+      "powiat_teryt": "2803",
+      "powiat_nazwa": "działdowski",
+      "siedziba": "Działdowo",
+      "siedziba_rozwiązana": "Działdowo",
+      "gmina_kod": "2803011"
+    },
+    {
+      "powiat_teryt": "0202",
+      "powiat_nazwa": "dzierżoniowski",
+      "siedziba": "Dzierżoniów",
+      "siedziba_rozwiązana": "Dzierżoniów",
+      "gmina_kod": "0202021"
+    },
+    {
+      "powiat_teryt": "1204",
+      "powiat_nazwa": "dąbrowski",
+      "siedziba": "Dąbrowa Tarnowska",
+      "siedziba_rozwiązana": "Dąbrowa Tarnowska",
+      "gmina_kod": "1204023"
+    },
+    {
+      "powiat_teryt": "1803",
+      "powiat_nazwa": "dębicki",
+      "siedziba": "Dębica",
+      "siedziba_rozwiązana": "Dębica",
+      "gmina_kod": "1803011"
+    },
+    {
+      "powiat_teryt": "2804",
+      "powiat_nazwa": "elbląski",
+      "siedziba": "Pasłęk",
+      "siedziba_rozwiązana": "Pasłęk",
+      "gmina_kod": "2804073"
+    },
+    {
+      "powiat_teryt": "2805",
+      "powiat_nazwa": "ełcki",
+      "siedziba": "Ełk",
+      "siedziba_rozwiązana": "Ełk",
+      "gmina_kod": "2805011"
+    },
+    {
+      "powiat_teryt": "1403",
+      "powiat_nazwa": "garwoliński",
+      "siedziba": "Garwolin",
+      "siedziba_rozwiązana": "Garwolin",
+      "gmina_kod": "1403011"
+    },
+    {
+      "powiat_teryt": "2204",
+      "powiat_nazwa": "gdański",
+      "siedziba": "Pruszcz Gdański",
+      "siedziba_rozwiązana": "Pruszcz Gdański",
+      "gmina_kod": "2204011"
+    },
+    {
+      "powiat_teryt": "2806",
+      "powiat_nazwa": "giżycki",
+      "siedziba": "Giżycko",
+      "siedziba_rozwiązana": "Giżycko",
+      "gmina_kod": "2806011"
+    },
+    {
+      "powiat_teryt": "2405",
+      "powiat_nazwa": "gliwicki",
+      "siedziba": "Knurów",
+      "siedziba_rozwiązana": "Knurów",
+      "gmina_kod": "2405011"
+    },
+    {
+      "powiat_teryt": "3003",
+      "powiat_nazwa": "gnieźnieński",
+      "siedziba": "Gniezno",
+      "siedziba_rozwiązana": "Gniezno",
+      "gmina_kod": "3003011"
+    },
+    {
+      "powiat_teryt": "3204",
+      "powiat_nazwa": "goleniowski",
+      "siedziba": "Goleniów",
+      "siedziba_rozwiązana": "Goleniów",
+      "gmina_kod": "3204023"
+    },
+    {
+      "powiat_teryt": "0405",
+      "powiat_nazwa": "golubsko-dobrzyński",
+      "siedziba": "Golubsko",
+      "siedziba_rozwiązana": "Golubsko",
+      "gmina_kod": "0405011"
+    },
+    {
+      "powiat_teryt": "1205",
+      "powiat_nazwa": "gorlicki",
+      "siedziba": "Gorlice",
+      "siedziba_rozwiązana": "Gorlice",
+      "gmina_kod": "1205011"
+    },
+    {
+      "powiat_teryt": "0801",
+      "powiat_nazwa": "gorzowski",
+      "siedziba": "Kostrzyn nad Odrą",
+      "siedziba_rozwiązana": "Kostrzyn nad Odrą",
+      "gmina_kod": "0801011"
+    },
+    {
+      "powiat_teryt": "1404",
+      "powiat_nazwa": "gostyniński",
+      "siedziba": "Gostynin",
+      "siedziba_rozwiązana": "Gostynin",
+      "gmina_kod": "1404011"
+    },
+    {
+      "powiat_teryt": "3004",
+      "powiat_nazwa": "gostyński",
+      "siedziba": "Gostyń",
+      "siedziba_rozwiązana": "Gostyń",
+      "gmina_kod": "3004023"
+    },
+    {
+      "powiat_teryt": "2818",
+      "powiat_nazwa": "gołdapski",
+      "siedziba": "Gołdap",
+      "siedziba_rozwiązana": "Gołdap",
+      "gmina_kod": "2818033"
+    },
+    {
+      "powiat_teryt": "2004",
+      "powiat_nazwa": "grajewski",
+      "siedziba": "Grajewo",
+      "siedziba_rozwiązana": "Grajewo",
+      "gmina_kod": "2004011"
+    },
+    {
+      "powiat_teryt": "1405",
+      "powiat_nazwa": "grodziski",
+      "siedziba": "Grodzisk Mazowiecki",
+      "siedziba_rozwiązana": "Grodzisk Mazowiecki",
+      "gmina_kod": "1405043"
+    },
+    {
+      "powiat_teryt": "3005",
+      "powiat_nazwa": "grodziski",
+      "siedziba": "Grodzisk Wielkopolski",
+      "siedziba_rozwiązana": "Grodzisk Wielkopolski",
+      "gmina_kod": "3005023"
+    },
+    {
+      "powiat_teryt": "0406",
+      "powiat_nazwa": "grudziądzki",
+      "siedziba": "Łasin",
+      "siedziba_rozwiązana": "Łasin",
+      "gmina_kod": "0406033"
+    },
+    {
+      "powiat_teryt": "3205",
+      "powiat_nazwa": "gryficki",
+      "siedziba": "Gryfice",
+      "siedziba_rozwiązana": "Gryfice",
+      "gmina_kod": "3205023"
+    },
+    {
+      "powiat_teryt": "3206",
+      "powiat_nazwa": "gryfiński",
+      "siedziba": "Gryfino",
+      "siedziba_rozwiązana": "Gryfino",
+      "gmina_kod": "3206043"
+    },
+    {
+      "powiat_teryt": "1406",
+      "powiat_nazwa": "grójecki",
+      "siedziba": "Grójec",
+      "siedziba_rozwiązana": "Grójec",
+      "gmina_kod": "1406053"
+    },
+    {
+      "powiat_teryt": "0204",
+      "powiat_nazwa": "górowski",
+      "siedziba": "Góra",
+      "siedziba_rozwiązana": "Góra",
+      "gmina_kod": "0204013"
+    },
+    {
+      "powiat_teryt": "0203",
+      "powiat_nazwa": "głogowski",
+      "siedziba": "Głogów",
+      "siedziba_rozwiązana": "Głogów",
+      "gmina_kod": "0203011"
+    },
+    {
+      "powiat_teryt": "1602",
+      "powiat_nazwa": "głubczycki",
+      "siedziba": "Głubczyce",
+      "siedziba_rozwiązana": "Głubczyce",
+      "gmina_kod": "1602033"
+    },
+    {
+      "powiat_teryt": "2005",
+      "powiat_nazwa": "hajnowski",
+      "siedziba": "Hajnówka",
+      "siedziba_rozwiązana": "Hajnówka",
+      "gmina_kod": "2005011"
+    },
+    {
+      "powiat_teryt": "0604",
+      "powiat_nazwa": "hrubieszowski",
+      "siedziba": "Hrubieszów",
+      "siedziba_rozwiązana": "Hrubieszów",
+      "gmina_kod": "0604011"
+    },
+    {
+      "powiat_teryt": "0407",
+      "powiat_nazwa": "inowrocławski",
+      "siedziba": "Inowrocław",
+      "siedziba_rozwiązana": "Inowrocław",
+      "gmina_kod": "0407011"
+    },
+    {
+      "powiat_teryt": "2807",
+      "powiat_nazwa": "iławski",
+      "siedziba": "Iława",
+      "siedziba_rozwiązana": "Iława",
+      "gmina_kod": "2807011"
+    },
+    {
+      "powiat_teryt": "0605",
+      "powiat_nazwa": "janowski",
+      "siedziba": "Janów Lubelski",
+      "siedziba_rozwiązana": "Janów Lubelski",
+      "gmina_kod": "0605053"
+    },
+    {
+      "powiat_teryt": "3006",
+      "powiat_nazwa": "jarociński",
+      "siedziba": "Jarocin",
+      "siedziba_rozwiązana": "Jarocin",
+      "gmina_kod": "3006023"
+    },
+    {
+      "powiat_teryt": "1804",
+      "powiat_nazwa": "jarosławski",
+      "siedziba": "Jarosław",
+      "siedziba_rozwiązana": "Jarosław",
+      "gmina_kod": "1804011"
+    },
+    {
+      "powiat_teryt": "1805",
+      "powiat_nazwa": "jasielski",
+      "siedziba": "Jasło",
+      "siedziba_rozwiązana": "Jasło",
+      "gmina_kod": "1805011"
+    },
+    {
+      "powiat_teryt": "0205",
+      "powiat_nazwa": "jaworski",
+      "siedziba": "Jawor",
+      "siedziba_rozwiązana": "Jawor",
+      "gmina_kod": "0205011"
+    },
+    {
+      "powiat_teryt": "2602",
+      "powiat_nazwa": "jędrzejowski",
+      "siedziba": "Jędrzejów",
+      "siedziba_rozwiązana": "Jędrzejów",
+      "gmina_kod": "2602023"
+    },
+    {
+      "powiat_teryt": "3007",
+      "powiat_nazwa": "kaliski",
+      "siedziba": "Opatówek",
+      "siedziba_rozwiązana": "Opatówek",
+      "gmina_kod": "3007083"
+    },
+    {
+      "powiat_teryt": "0207",
+      "powiat_nazwa": "kamiennogórski",
+      "siedziba": "Kamienna Góra",
+      "siedziba_rozwiązana": "Kamienna Góra",
+      "gmina_kod": "0207011"
+    },
+    {
+      "powiat_teryt": "3207",
+      "powiat_nazwa": "kamieński",
+      "siedziba": "Kamień Pomorski",
+      "siedziba_rozwiązana": "Kamień Pomorski",
+      "gmina_kod": "3207033"
+    },
+    {
+      "powiat_teryt": "0206",
+      "powiat_nazwa": "karkonoski",
+      "siedziba": "Kowary",
+      "siedziba_rozwiązana": "Kowary",
+      "gmina_kod": "0206021"
+    },
+    {
+      "powiat_teryt": "2205",
+      "powiat_nazwa": "kartuski",
+      "siedziba": "Kartuzy",
+      "siedziba_rozwiązana": "Kartuzy",
+      "gmina_kod": "2205023"
+    },
+    {
+      "powiat_teryt": "2603",
+      "powiat_nazwa": "kazimierski",
+      "siedziba": "Kazimierza Wielka",
+      "siedziba_rozwiązana": "Kazimierza Wielka",
+      "gmina_kod": "2603033"
+    },
+    {
+      "powiat_teryt": "2604",
+      "powiat_nazwa": "kielecki",
+      "siedziba": "Chęciny",
+      "siedziba_rozwiązana": "Chęciny",
+      "gmina_kod": "2604033"
+    },
+    {
+      "powiat_teryt": "1604",
+      "powiat_nazwa": "kluczborski",
+      "siedziba": "Kluczbork",
+      "siedziba_rozwiązana": "Kluczbork",
+      "gmina_kod": "1604023"
+    },
+    {
+      "powiat_teryt": "1806",
+      "powiat_nazwa": "kolbuszowski",
+      "siedziba": "Kolbuszowa",
+      "siedziba_rozwiązana": "Kolbuszowa",
+      "gmina_kod": "1806023"
+    },
+    {
+      "powiat_teryt": "2006",
+      "powiat_nazwa": "kolneński",
+      "siedziba": "Kolno",
+      "siedziba_rozwiązana": "Kolno",
+      "gmina_kod": "2006011"
+    },
+    {
+      "powiat_teryt": "3009",
+      "powiat_nazwa": "kolski",
+      "siedziba": "Koło",
+      "siedziba_rozwiązana": "Koło",
+      "gmina_kod": "3009011"
+    },
+    {
+      "powiat_teryt": "2605",
+      "powiat_nazwa": "konecki",
+      "siedziba": "Końskie",
+      "siedziba_rozwiązana": "Końskie",
+      "gmina_kod": "2605033"
+    },
+    {
+      "powiat_teryt": "3010",
+      "powiat_nazwa": "koniński",
+      "siedziba": "Golina",
+      "siedziba_rozwiązana": "Golina",
+      "gmina_kod": "3010013"
+    },
+    {
+      "powiat_teryt": "3209",
+      "powiat_nazwa": "koszaliński",
+      "siedziba": "Sianów",
+      "siedziba_rozwiązana": "Sianów",
+      "gmina_kod": "3209073"
+    },
+    {
+      "powiat_teryt": "1407",
+      "powiat_nazwa": "kozienicki",
+      "siedziba": "Kozienice",
+      "siedziba_rozwiązana": "Kozienice",
+      "gmina_kod": "1407053"
+    },
+    {
+      "powiat_teryt": "3208",
+      "powiat_nazwa": "kołobrzeski",
+      "siedziba": "Kołobrzeg",
+      "siedziba_rozwiązana": "Kołobrzeg",
+      "gmina_kod": "3208011"
+    },
+    {
+      "powiat_teryt": "3011",
+      "powiat_nazwa": "kościański",
+      "siedziba": "Kościan",
+      "siedziba_rozwiązana": "Kościan",
+      "gmina_kod": "3011011"
+    },
+    {
+      "powiat_teryt": "2206",
+      "powiat_nazwa": "kościerski",
+      "siedziba": "Kościerzyna",
+      "siedziba_rozwiązana": "Kościerzyna",
+      "gmina_kod": "2206011"
+    },
+    {
+      "powiat_teryt": "1206",
+      "powiat_nazwa": "krakowski",
+      "siedziba": "Skawina",
+      "siedziba_rozwiązana": "Skawina",
+      "gmina_kod": "1206113"
+    },
+    {
+      "powiat_teryt": "1605",
+      "powiat_nazwa": "krapkowicki",
+      "siedziba": "Krapkowice",
+      "siedziba_rozwiązana": "Krapkowice",
+      "gmina_kod": "1605023"
+    },
+    {
+      "powiat_teryt": "0606",
+      "powiat_nazwa": "krasnostawski",
+      "siedziba": "Krasnystaw",
+      "siedziba_rozwiązana": "Krasnystaw",
+      "gmina_kod": "0606011"
+    },
+    {
+      "powiat_teryt": "0607",
+      "powiat_nazwa": "kraśnicki",
+      "siedziba": "Kraśnik",
+      "siedziba_rozwiązana": "Kraśnik",
+      "gmina_kod": "0607011"
+    },
+    {
+      "powiat_teryt": "3012",
+      "powiat_nazwa": "krotoszyński",
+      "siedziba": "Sulmierzyce",
+      "siedziba_rozwiązana": "Sulmierzyce",
+      "gmina_kod": "3012011"
+    },
+    {
+      "powiat_teryt": "0802",
+      "powiat_nazwa": "krośnieński",
+      "siedziba": "Gubin",
+      "siedziba_rozwiązana": "Gubin",
+      "gmina_kod": "0802011"
+    },
+    {
+      "powiat_teryt": "1807",
+      "powiat_nazwa": "krośnieński",
+      "siedziba": "Jedlicze",
+      "siedziba_rozwiązana": "Jedlicze",
+      "gmina_kod": "1807043"
+    },
+    {
+      "powiat_teryt": "1002",
+      "powiat_nazwa": "kutnowski",
+      "siedziba": "Kutno",
+      "siedziba_rozwiązana": "Kutno",
+      "gmina_kod": "1002011"
+    },
+    {
+      "powiat_teryt": "2207",
+      "powiat_nazwa": "kwidzyński",
+      "siedziba": "Kwidzyn",
+      "siedziba_rozwiązana": "Kwidzyn",
+      "gmina_kod": "2207011"
+    },
+    {
+      "powiat_teryt": "1603",
+      "powiat_nazwa": "kędzierzyńsko-kozielski",
+      "siedziba": "Kędzierzyńsko",
+      "siedziba_rozwiązana": "Kędzierzyńsko",
+      "gmina_kod": "1603011"
+    },
+    {
+      "powiat_teryt": "3008",
+      "powiat_nazwa": "kępiński",
+      "siedziba": "Kępno",
+      "siedziba_rozwiązana": "Kępno",
+      "gmina_kod": "3008033"
+    },
+    {
+      "powiat_teryt": "2808",
+      "powiat_nazwa": "kętrzyński",
+      "siedziba": "Kętrzyn",
+      "siedziba_rozwiązana": "Kętrzyn",
+      "gmina_kod": "2808011"
+    },
+    {
+      "powiat_teryt": "2406",
+      "powiat_nazwa": "kłobucki",
+      "siedziba": "Kłobuck",
+      "siedziba_rozwiązana": "Kłobuck",
+      "gmina_kod": "2406013"
+    },
+    {
+      "powiat_teryt": "0208",
+      "powiat_nazwa": "kłodzki",
+      "siedziba": "Kłodzko",
+      "siedziba_rozwiązana": "Kłodzko",
+      "gmina_kod": "0208021"
+    },
+    {
+      "powiat_teryt": "1408",
+      "powiat_nazwa": "legionowski",
+      "siedziba": "Legionowo",
+      "siedziba_rozwiązana": "Legionowo",
+      "gmina_kod": "1408011"
+    },
+    {
+      "powiat_teryt": "0209",
+      "powiat_nazwa": "legnicki",
+      "siedziba": "Chojnów",
+      "siedziba_rozwiązana": "Chojnów",
+      "gmina_kod": "0209011"
+    },
+    {
+      "powiat_teryt": "1821",
+      "powiat_nazwa": "leski",
+      "siedziba": "Lesko",
+      "siedziba_rozwiązana": "Lesko",
+      "gmina_kod": "1821033"
+    },
+    {
+      "powiat_teryt": "3013",
+      "powiat_nazwa": "leszczyński",
+      "siedziba": "Rydzyna",
+      "siedziba_rozwiązana": "Rydzyna",
+      "gmina_kod": "3013043"
+    },
+    {
+      "powiat_teryt": "1808",
+      "powiat_nazwa": "leżajski",
+      "siedziba": "Leżajsk",
+      "siedziba_rozwiązana": "Leżajsk",
+      "gmina_kod": "1808011"
+    },
+    {
+      "powiat_teryt": "2809",
+      "powiat_nazwa": "lidzbarski",
+      "siedziba": "Lidzbark Warmiński",
+      "siedziba_rozwiązana": "Lidzbark Warmiński",
+      "gmina_kod": "2809011"
+    },
+    {
+      "powiat_teryt": "1207",
+      "powiat_nazwa": "limanowski",
+      "siedziba": "Limanowa",
+      "siedziba_rozwiązana": "Limanowa",
+      "gmina_kod": "1207011"
+    },
+    {
+      "powiat_teryt": "0408",
+      "powiat_nazwa": "lipnowski",
+      "siedziba": "Lipno",
+      "siedziba_rozwiązana": "Lipno",
+      "gmina_kod": "0408011"
+    },
+    {
+      "powiat_teryt": "1409",
+      "powiat_nazwa": "lipski",
+      "siedziba": "Lipsko",
+      "siedziba_rozwiązana": "Lipsko",
+      "gmina_kod": "1409033"
+    },
+    {
+      "powiat_teryt": "1809",
+      "powiat_nazwa": "lubaczowski",
+      "siedziba": "Lubaczów",
+      "siedziba_rozwiązana": "Lubaczów",
+      "gmina_kod": "1809011"
+    },
+    {
+      "powiat_teryt": "0608",
+      "powiat_nazwa": "lubartowski",
+      "siedziba": "Lubartów",
+      "siedziba_rozwiązana": "Lubartów",
+      "gmina_kod": "0608011"
+    },
+    {
+      "powiat_teryt": "0210",
+      "powiat_nazwa": "lubański",
+      "siedziba": "Lubań",
+      "siedziba_rozwiązana": "Lubań",
+      "gmina_kod": "0210011"
+    },
+    {
+      "powiat_teryt": "0609",
+      "powiat_nazwa": "lubelski",
+      "siedziba": "Bełżyce",
+      "siedziba_rozwiązana": "Bełżyce",
+      "gmina_kod": "0609013"
+    },
+    {
+      "powiat_teryt": "0211",
+      "powiat_nazwa": "lubiński",
+      "siedziba": "Lubin",
+      "siedziba_rozwiązana": "Lubin",
+      "gmina_kod": "0211011"
+    },
+    {
+      "powiat_teryt": "2407",
+      "powiat_nazwa": "lubliniecki",
+      "siedziba": "Lubliniec",
+      "siedziba_rozwiązana": "Lubliniec",
+      "gmina_kod": "2407011"
+    },
+    {
+      "powiat_teryt": "0212",
+      "powiat_nazwa": "lwówecki",
+      "siedziba": "Lwówek Śląski",
+      "siedziba_rozwiązana": "Lwówek Śląski",
+      "gmina_kod": "0212033"
+    },
+    {
+      "powiat_teryt": "2208",
+      "powiat_nazwa": "lęborski",
+      "siedziba": "Lębork",
+      "siedziba_rozwiązana": "Lębork",
+      "gmina_kod": "2208011"
+    },
+    {
+      "powiat_teryt": "1411",
+      "powiat_nazwa": "makowski",
+      "siedziba": "Maków Mazowiecki",
+      "siedziba_rozwiązana": "Maków Mazowiecki",
+      "gmina_kod": "1411011"
+    },
+    {
+      "powiat_teryt": "2209",
+      "powiat_nazwa": "malborski",
+      "siedziba": "Malbork",
+      "siedziba_rozwiązana": "Malbork",
+      "gmina_kod": "2209011"
+    },
+    {
+      "powiat_teryt": "1208",
+      "powiat_nazwa": "miechowski",
+      "siedziba": "Miechów",
+      "siedziba_rozwiązana": "Miechów",
+      "gmina_kod": "1208053"
+    },
+    {
+      "powiat_teryt": "1811",
+      "powiat_nazwa": "mielecki",
+      "siedziba": "Mielec",
+      "siedziba_rozwiązana": "Mielec",
+      "gmina_kod": "1811011"
+    },
+    {
+      "powiat_teryt": "2408",
+      "powiat_nazwa": "mikołowski",
+      "siedziba": "Mikołów",
+      "siedziba_rozwiązana": "Mikołów",
+      "gmina_kod": "2408021"
+    },
+    {
+      "powiat_teryt": "0213",
+      "powiat_nazwa": "milicki",
+      "siedziba": "Milicz",
+      "siedziba_rozwiązana": "Milicz",
+      "gmina_kod": "0213033"
+    },
+    {
+      "powiat_teryt": "3014",
+      "powiat_nazwa": "międzychodzki",
+      "siedziba": "Międzychód",
+      "siedziba_rozwiązana": "Międzychód",
+      "gmina_kod": "3014033"
+    },
+    {
+      "powiat_teryt": "0803",
+      "powiat_nazwa": "międzyrzecki",
+      "siedziba": "Międzyrzecz",
+      "siedziba_rozwiązana": "Międzyrzecz",
+      "gmina_kod": "0803023"
+    },
+    {
+      "powiat_teryt": "1412",
+      "powiat_nazwa": "miński",
+      "siedziba": "Mińsk Mazowiecki",
+      "siedziba_rozwiązana": "Mińsk Mazowiecki",
+      "gmina_kod": "1412011"
+    },
+    {
+      "powiat_teryt": "0409",
+      "powiat_nazwa": "mogileński",
+      "siedziba": "Mogilno",
+      "siedziba_rozwiązana": "Mogilno",
+      "gmina_kod": "0409033"
+    },
+    {
+      "powiat_teryt": "2008",
+      "powiat_nazwa": "moniecki",
+      "siedziba": "Mońki",
+      "siedziba_rozwiązana": "Mońki",
+      "gmina_kod": "2008063"
+    },
+    {
+      "powiat_teryt": "2810",
+      "powiat_nazwa": "mrągowski",
+      "siedziba": "Mrągowo",
+      "siedziba_rozwiązana": "Mrągowo",
+      "gmina_kod": "2810011"
+    },
+    {
+      "powiat_teryt": "2409",
+      "powiat_nazwa": "myszkowski",
+      "siedziba": "Myszków",
+      "siedziba_rozwiązana": "Myszków",
+      "gmina_kod": "2409011"
+    },
+    {
+      "powiat_teryt": "1209",
+      "powiat_nazwa": "myślenicki",
+      "siedziba": "Myślenice",
+      "siedziba_rozwiązana": "Myślenice",
+      "gmina_kod": "1209033"
+    },
+    {
+      "powiat_teryt": "3210",
+      "powiat_nazwa": "myśliborski",
+      "siedziba": "Barlinek",
+      "siedziba_rozwiązana": "Barlinek",
+      "gmina_kod": "3210013"
+    },
+    {
+      "powiat_teryt": "1413",
+      "powiat_nazwa": "mławski",
+      "siedziba": "Mława",
+      "siedziba_rozwiązana": "Mława",
+      "gmina_kod": "1413011"
+    },
+    {
+      "powiat_teryt": "0410",
+      "powiat_nazwa": "nakielski",
+      "siedziba": "Nakło nad Notecią",
+      "siedziba_rozwiązana": "Nakło nad Notecią",
+      "gmina_kod": "0410033"
+    },
+    {
+      "powiat_teryt": "1606",
+      "powiat_nazwa": "namysłowski",
+      "siedziba": "Namysłów",
+      "siedziba_rozwiązana": "Namysłów",
+      "gmina_kod": "1606023"
+    },
+    {
+      "powiat_teryt": "2811",
+      "powiat_nazwa": "nidzicki",
+      "siedziba": "Nidzica",
+      "siedziba_rozwiązana": "Nidzica",
+      "gmina_kod": "2811043"
+    },
+    {
+      "powiat_teryt": "1812",
+      "powiat_nazwa": "niżański",
+      "siedziba": "Nisko",
+      "siedziba_rozwiązana": "Nisko",
+      "gmina_kod": "1812053"
+    },
+    {
+      "powiat_teryt": "1414",
+      "powiat_nazwa": "nowodworski",
+      "siedziba": "Nowy Dwór Mazowiecki",
+      "siedziba_rozwiązana": "Nowy Dwór Mazowiecki",
+      "gmina_kod": "1414011"
+    },
+    {
+      "powiat_teryt": "2210",
+      "powiat_nazwa": "nowodworski",
+      "siedziba": "Krynica Morska",
+      "siedziba_rozwiązana": "Krynica Morska",
+      "gmina_kod": "2210011"
+    },
+    {
+      "powiat_teryt": "2812",
+      "powiat_nazwa": "nowomiejski",
+      "siedziba": "Nowe Miasto Lubawskie",
+      "siedziba_rozwiązana": "Nowe Miasto Lubawskie",
+      "gmina_kod": "2812011"
+    },
+    {
+      "powiat_teryt": "0804",
+      "powiat_nazwa": "nowosolski",
+      "siedziba": "Nowa Sól",
+      "siedziba_rozwiązana": "Nowa Sól",
+      "gmina_kod": "0804011"
+    },
+    {
+      "powiat_teryt": "1210",
+      "powiat_nazwa": "nowosądecki",
+      "siedziba": "Grybów",
+      "siedziba_rozwiązana": "Grybów",
+      "gmina_kod": "1210011"
+    },
+    {
+      "powiat_teryt": "1211",
+      "powiat_nazwa": "nowotarski",
+      "siedziba": "Nowy Targ",
+      "siedziba_rozwiązana": "Nowy Targ",
+      "gmina_kod": "1211011"
+    },
+    {
+      "powiat_teryt": "3015",
+      "powiat_nazwa": "nowotomyski",
+      "siedziba": "Nowy Tomyśl",
+      "siedziba_rozwiązana": "Nowy Tomyśl",
+      "gmina_kod": "3015043"
+    },
+    {
+      "powiat_teryt": "1607",
+      "powiat_nazwa": "nyski",
+      "siedziba": "Nysa",
+      "siedziba_rozwiązana": "Nysa",
+      "gmina_kod": "1607053"
+    },
+    {
+      "powiat_teryt": "3016",
+      "powiat_nazwa": "obornicki",
+      "siedziba": "Oborniki",
+      "siedziba_rozwiązana": "Oborniki",
+      "gmina_kod": "3016013"
+    },
+    {
+      "powiat_teryt": "2813",
+      "powiat_nazwa": "olecki",
+      "siedziba": "Olecko",
+      "siedziba_rozwiązana": "Olecko",
+      "gmina_kod": "2813043"
+    },
+    {
+      "powiat_teryt": "1608",
+      "powiat_nazwa": "oleski",
+      "siedziba": "Olesno",
+      "siedziba_rozwiązana": "Olesno",
+      "gmina_kod": "1608033"
+    },
+    {
+      "powiat_teryt": "0214",
+      "powiat_nazwa": "oleśnicki",
+      "siedziba": "Oleśnica",
+      "siedziba_rozwiązana": "Oleśnica",
+      "gmina_kod": "0214011"
+    },
+    {
+      "powiat_teryt": "1212",
+      "powiat_nazwa": "olkuski",
+      "siedziba": "Bukowno",
+      "siedziba_rozwiązana": "Bukowno",
+      "gmina_kod": "1212011"
+    },
+    {
+      "powiat_teryt": "2814",
+      "powiat_nazwa": "olsztyński",
+      "siedziba": "Biskupiec",
+      "siedziba_rozwiązana": "Biskupiec",
+      "gmina_kod": "2814023"
+    },
+    {
+      "powiat_teryt": "2606",
+      "powiat_nazwa": "opatowski",
+      "siedziba": "Opatów",
+      "siedziba_rozwiązana": "Opatów",
+      "gmina_kod": "2606043"
+    },
+    {
+      "powiat_teryt": "1007",
+      "powiat_nazwa": "opoczyński",
+      "siedziba": "Opoczno",
+      "siedziba_rozwiązana": "Opoczno",
+      "gmina_kod": "1007043"
+    },
+    {
+      "powiat_teryt": "0612",
+      "powiat_nazwa": "opolski",
+      "siedziba": "Poniatowa",
+      "siedziba_rozwiązana": "Poniatowa",
+      "gmina_kod": "0612063"
+    },
+    {
+      "powiat_teryt": "1609",
+      "powiat_nazwa": "opolski",
+      "siedziba": "Ozimek",
+      "siedziba_rozwiązana": "Ozimek",
+      "gmina_kod": "1609083"
+    },
+    {
+      "powiat_teryt": "2607",
+      "powiat_nazwa": "ostrowiecki",
+      "siedziba": "Ostrowiec Świętokrzyski",
+      "siedziba_rozwiązana": "Ostrowiec Świętokrzyski",
+      "gmina_kod": "2607011"
+    },
+    {
+      "powiat_teryt": "1416",
+      "powiat_nazwa": "ostrowski",
+      "siedziba": "Ostrów Mazowiecka",
+      "siedziba_rozwiązana": "Ostrów Mazowiecka",
+      "gmina_kod": "1416011"
+    },
+    {
+      "powiat_teryt": "3017",
+      "powiat_nazwa": "ostrowski",
+      "siedziba": "Ostrów Wielkopolski",
+      "siedziba_rozwiązana": "Ostrów Wielkopolski",
+      "gmina_kod": "3017011"
+    },
+    {
+      "powiat_teryt": "1415",
+      "powiat_nazwa": "ostrołęcki",
+      "siedziba": "Myszyniec",
+      "siedziba_rozwiązana": "Myszyniec",
+      "gmina_kod": "1415083"
+    },
+    {
+      "powiat_teryt": "3018",
+      "powiat_nazwa": "ostrzeszowski",
+      "siedziba": "Ostrzeszów",
+      "siedziba_rozwiązana": "Ostrzeszów",
+      "gmina_kod": "3018073"
+    },
+    {
+      "powiat_teryt": "2815",
+      "powiat_nazwa": "ostródzki",
+      "siedziba": "Ostróda",
+      "siedziba_rozwiązana": "Ostróda",
+      "gmina_kod": "2815011"
+    },
+    {
+      "powiat_teryt": "1417",
+      "powiat_nazwa": "otwocki",
+      "siedziba": "Otwock",
+      "siedziba_rozwiązana": "Otwock",
+      "gmina_kod": "1417021"
+    },
+    {
+      "powiat_teryt": "0215",
+      "powiat_nazwa": "oławski",
+      "siedziba": "Oława",
+      "siedziba_rozwiązana": "Oława",
+      "gmina_kod": "0215011"
+    },
+    {
+      "powiat_teryt": "1213",
+      "powiat_nazwa": "oświęcimski",
+      "siedziba": "Oświęcim",
+      "siedziba_rozwiązana": "Oświęcim",
+      "gmina_kod": "1213011"
+    },
+    {
+      "powiat_teryt": "1008",
+      "powiat_nazwa": "pabianicki",
+      "siedziba": "Pabianice",
+      "siedziba_rozwiązana": "Pabianice",
+      "gmina_kod": "1008021"
+    },
+    {
+      "powiat_teryt": "1009",
+      "powiat_nazwa": "pajęczański",
+      "siedziba": "Pajęczno",
+      "siedziba_rozwiązana": "Pajęczno",
+      "gmina_kod": "1009043"
+    },
+    {
+      "powiat_teryt": "0613",
+      "powiat_nazwa": "parczewski",
+      "siedziba": "Parczew",
+      "siedziba_rozwiązana": "Parczew",
+      "gmina_kod": "0613043"
+    },
+    {
+      "powiat_teryt": "1418",
+      "powiat_nazwa": "piaseczyński",
+      "siedziba": "Piaseczno",
+      "siedziba_rozwiązana": "Piaseczno",
+      "gmina_kod": "1418043"
+    },
+    {
+      "powiat_teryt": "3019",
+      "powiat_nazwa": "pilski",
+      "siedziba": "Piła",
+      "siedziba_rozwiązana": "Piła",
+      "gmina_kod": "3019011"
+    },
+    {
+      "powiat_teryt": "1010",
+      "powiat_nazwa": "piotrkowski",
+      "siedziba": "Sulejów",
+      "siedziba_rozwiązana": "Sulejów",
+      "gmina_kod": "1010093"
+    },
+    {
+      "powiat_teryt": "2816",
+      "powiat_nazwa": "piski",
+      "siedziba": "Pisz",
+      "siedziba_rozwiązana": "Pisz",
+      "gmina_kod": "2816033"
+    },
+    {
+      "powiat_teryt": "2608",
+      "powiat_nazwa": "pińczowski",
+      "siedziba": "Pińczów",
+      "siedziba_rozwiązana": "Pińczów",
+      "gmina_kod": "2608043"
+    },
+    {
+      "powiat_teryt": "3020",
+      "powiat_nazwa": "pleszewski",
+      "siedziba": "Pleszew",
+      "siedziba_rozwiązana": "Pleszew",
+      "gmina_kod": "3020063"
+    },
+    {
+      "powiat_teryt": "1011",
+      "powiat_nazwa": "poddębicki",
+      "siedziba": "Poddębice",
+      "siedziba_rozwiązana": "Poddębice",
+      "gmina_kod": "1011033"
+    },
+    {
+      "powiat_teryt": "3211",
+      "powiat_nazwa": "policki",
+      "siedziba": "Police",
+      "siedziba_rozwiązana": "Police",
+      "gmina_kod": "3211043"
+    },
+    {
+      "powiat_teryt": "0216",
+      "powiat_nazwa": "polkowicki",
+      "siedziba": "Polkowice",
+      "siedziba_rozwiązana": "Polkowice",
+      "gmina_kod": "0216043"
+    },
+    {
+      "powiat_teryt": "3021",
+      "powiat_nazwa": "poznański",
+      "siedziba": "Luboń",
+      "siedziba_rozwiązana": "Luboń",
+      "gmina_kod": "3021011"
+    },
+    {
+      "powiat_teryt": "1214",
+      "powiat_nazwa": "proszowicki",
+      "siedziba": "Proszowice",
+      "siedziba_rozwiązana": "Proszowice",
+      "gmina_kod": "1214053"
+    },
+    {
+      "powiat_teryt": "1610",
+      "powiat_nazwa": "prudnicki",
+      "siedziba": "Prudnik",
+      "siedziba_rozwiązana": "Prudnik",
+      "gmina_kod": "1610043"
+    },
+    {
+      "powiat_teryt": "1421",
+      "powiat_nazwa": "pruszkowski",
+      "siedziba": "Pruszków",
+      "siedziba_rozwiązana": "Pruszków",
+      "gmina_kod": "1421021"
+    },
+    {
+      "powiat_teryt": "1422",
+      "powiat_nazwa": "przasnyski",
+      "siedziba": "Przasnysz",
+      "siedziba_rozwiązana": "Przasnysz",
+      "gmina_kod": "1422011"
+    },
+    {
+      "powiat_teryt": "1813",
+      "powiat_nazwa": "przemyski",
+      "siedziba": "Bircza",
+      "siedziba_rozwiązana": "Bircza",
+      "gmina_kod": "1813013"
+    },
+    {
+      "powiat_teryt": "1814",
+      "powiat_nazwa": "przeworski",
+      "siedziba": "Przeworsk",
+      "siedziba_rozwiązana": "Przeworsk",
+      "gmina_kod": "1814011"
+    },
+    {
+      "powiat_teryt": "1423",
+      "powiat_nazwa": "przysuski",
+      "siedziba": "Przysucha",
+      "siedziba_rozwiązana": "Przysucha",
+      "gmina_kod": "1423063"
+    },
+    {
+      "powiat_teryt": "2410",
+      "powiat_nazwa": "pszczyński",
+      "siedziba": "Pszczyna",
+      "siedziba_rozwiązana": "Pszczyna",
+      "gmina_kod": "2410053"
+    },
+    {
+      "powiat_teryt": "2211",
+      "powiat_nazwa": "pucki",
+      "siedziba": "Puck",
+      "siedziba_rozwiązana": "Puck",
+      "gmina_kod": "2211031"
+    },
+    {
+      "powiat_teryt": "0614",
+      "powiat_nazwa": "puławski",
+      "siedziba": "Puławy",
+      "siedziba_rozwiązana": "Puławy",
+      "gmina_kod": "0614011"
+    },
+    {
+      "powiat_teryt": "1424",
+      "powiat_nazwa": "pułtuski",
+      "siedziba": "Pułtusk",
+      "siedziba_rozwiązana": "Pułtusk",
+      "gmina_kod": "1424043"
+    },
+    {
+      "powiat_teryt": "3212",
+      "powiat_nazwa": "pyrzycki",
+      "siedziba": "Pyrzyce",
+      "siedziba_rozwiązana": "Pyrzyce",
+      "gmina_kod": "3212053"
+    },
+    {
+      "powiat_teryt": "1419",
+      "powiat_nazwa": "płocki",
+      "siedziba": "Gąbin",
+      "siedziba_rozwiązana": "Gąbin",
+      "gmina_kod": "1419063"
+    },
+    {
+      "powiat_teryt": "1420",
+      "powiat_nazwa": "płoński",
+      "siedziba": "Płońsk",
+      "siedziba_rozwiązana": "Płońsk",
+      "gmina_kod": "1420011"
+    },
+    {
+      "powiat_teryt": "2411",
+      "powiat_nazwa": "raciborski",
+      "siedziba": "Racibórz",
+      "siedziba_rozwiązana": "Racibórz",
+      "gmina_kod": "2411011"
+    },
+    {
+      "powiat_teryt": "1425",
+      "powiat_nazwa": "radomski",
+      "siedziba": "Pionki",
+      "siedziba_rozwiązana": "Pionki",
+      "gmina_kod": "1425011"
+    },
+    {
+      "powiat_teryt": "1012",
+      "powiat_nazwa": "radomszczański",
+      "siedziba": "Radomsko",
+      "siedziba_rozwiązana": "Radomsko",
+      "gmina_kod": "1012011"
+    },
+    {
+      "powiat_teryt": "0411",
+      "powiat_nazwa": "radziejowski",
+      "siedziba": "Radziejów",
+      "siedziba_rozwiązana": "Radziejów",
+      "gmina_kod": "0411011"
+    },
+    {
+      "powiat_teryt": "0615",
+      "powiat_nazwa": "radzyński",
+      "siedziba": "Radzyń Podlaski",
+      "siedziba_rozwiązana": "Radzyń Podlaski",
+      "gmina_kod": "0615011"
+    },
+    {
+      "powiat_teryt": "3022",
+      "powiat_nazwa": "rawicki",
+      "siedziba": "Rawicz",
+      "siedziba_rozwiązana": "Rawicz",
+      "gmina_kod": "3022053"
+    },
+    {
+      "powiat_teryt": "1013",
+      "powiat_nazwa": "rawski",
+      "siedziba": "Rawa Mazowiecka",
+      "siedziba_rozwiązana": "Rawa Mazowiecka",
+      "gmina_kod": "1013011"
+    },
+    {
+      "powiat_teryt": "1815",
+      "powiat_nazwa": "ropczycko-sędziszowski",
+      "siedziba": "Ropczycko",
+      "siedziba_rozwiązana": "Ropczycko",
+      "gmina_kod": null
+    },
+    {
+      "powiat_teryt": "2412",
+      "powiat_nazwa": "rybnicki",
+      "siedziba": "Czerwionka-Leszczyny",
+      "siedziba_rozwiązana": "Czerwionka-Leszczyny",
+      "gmina_kod": "2412013"
+    },
+    {
+      "powiat_teryt": "0616",
+      "powiat_nazwa": "rycki",
+      "siedziba": "Dęblin",
+      "siedziba_rozwiązana": "Dęblin",
+      "gmina_kod": "0616011"
+    },
+    {
+      "powiat_teryt": "0412",
+      "powiat_nazwa": "rypiński",
+      "siedziba": "Rypin",
+      "siedziba_rozwiązana": "Rypin",
+      "gmina_kod": "0412011"
+    },
+    {
+      "powiat_teryt": "1816",
+      "powiat_nazwa": "rzeszowski",
+      "siedziba": "Dynów",
+      "siedziba_rozwiązana": "Dynów",
+      "gmina_kod": "1816011"
+    },
+    {
+      "powiat_teryt": "2609",
+      "powiat_nazwa": "sandomierski",
+      "siedziba": "Sandomierz",
+      "siedziba_rozwiązana": "Sandomierz",
+      "gmina_kod": "2609011"
+    },
+    {
+      "powiat_teryt": "1817",
+      "powiat_nazwa": "sanocki",
+      "siedziba": "Sanok",
+      "siedziba_rozwiązana": "Sanok",
+      "gmina_kod": "1817011"
+    },
+    {
+      "powiat_teryt": "2009",
+      "powiat_nazwa": "sejneński",
+      "siedziba": "Sejny",
+      "siedziba_rozwiązana": "Sejny",
+      "gmina_kod": "2009011"
+    },
+    {
+      "powiat_teryt": "1426",
+      "powiat_nazwa": "siedlecki",
+      "siedziba": "Mordy",
+      "siedziba_rozwiązana": "Mordy",
+      "gmina_kod": "1426053"
+    },
+    {
+      "powiat_teryt": "2010",
+      "powiat_nazwa": "siemiatycki",
+      "siedziba": "Siemiatycze",
+      "siedziba_rozwiązana": "Siemiatycze",
+      "gmina_kod": "2010011"
+    },
+    {
+      "powiat_teryt": "1014",
+      "powiat_nazwa": "sieradzki",
+      "siedziba": "Sieradz",
+      "siedziba_rozwiązana": "Sieradz",
+      "gmina_kod": "1014011"
+    },
+    {
+      "powiat_teryt": "1427",
+      "powiat_nazwa": "sierpecki",
+      "siedziba": "Sierpc",
+      "siedziba_rozwiązana": "Sierpc",
+      "gmina_kod": "1427011"
+    },
+    {
+      "powiat_teryt": "2610",
+      "powiat_nazwa": "skarżyski",
+      "siedziba": "Skarżysko-Kamienna",
+      "siedziba_rozwiązana": "Skarżysko-Kamienna",
+      "gmina_kod": "2610011"
+    },
+    {
+      "powiat_teryt": "1015",
+      "powiat_nazwa": "skierniewicki",
+      "siedziba": "Bolimów",
+      "siedziba_rozwiązana": "Bolimów",
+      "gmina_kod": "1015013"
+    },
+    {
+      "powiat_teryt": "1428",
+      "powiat_nazwa": "sochaczewski",
+      "siedziba": "Sochaczew",
+      "siedziba_rozwiązana": "Sochaczew",
+      "gmina_kod": "1428011"
+    },
+    {
+      "powiat_teryt": "1429",
+      "powiat_nazwa": "sokołowski",
+      "siedziba": "Sokołów Podlaski",
+      "siedziba_rozwiązana": "Sokołów Podlaski",
+      "gmina_kod": "1429011"
+    },
+    {
+      "powiat_teryt": "2011",
+      "powiat_nazwa": "sokólski",
+      "siedziba": "Sokółka",
+      "siedziba_rozwiązana": "Sokółka",
+      "gmina_kod": "2011083"
+    },
+    {
+      "powiat_teryt": "1818",
+      "powiat_nazwa": "stalowowolski",
+      "siedziba": "Stalowa Wola",
+      "siedziba_rozwiązana": "Stalowa Wola",
+      "gmina_kod": "1818011"
+    },
+    {
+      "powiat_teryt": "2611",
+      "powiat_nazwa": "starachowicki",
+      "siedziba": "Starachowice",
+      "siedziba_rozwiązana": "Starachowice",
+      "gmina_kod": "2611011"
+    },
+    {
+      "powiat_teryt": "3214",
+      "powiat_nazwa": "stargardzki",
+      "siedziba": "Stargard",
+      "siedziba_rozwiązana": "Stargard",
+      "gmina_kod": "3214011"
+    },
+    {
+      "powiat_teryt": "2213",
+      "powiat_nazwa": "starogardzki",
+      "siedziba": "Starogard Gdański",
+      "siedziba_rozwiązana": "Starogard Gdański",
+      "gmina_kod": "2213031"
+    },
+    {
+      "powiat_teryt": "2612",
+      "powiat_nazwa": "staszowski",
+      "siedziba": "Staszów",
+      "siedziba_rozwiązana": "Staszów",
+      "gmina_kod": "2612073"
+    },
+    {
+      "powiat_teryt": "1611",
+      "powiat_nazwa": "strzelecki",
+      "siedziba": "Strzelce Opolskie",
+      "siedziba_rozwiązana": "Strzelce Opolskie",
+      "gmina_kod": "1611053"
+    },
+    {
+      "powiat_teryt": "0806",
+      "powiat_nazwa": "strzelecko-drezdenecki",
+      "siedziba": "Strzelce Krajeńskie",
+      "siedziba_rozwiązana": "Strzelce Krajeńskie",
+      "gmina_kod": "0806043"
+    },
+    {
+      "powiat_teryt": "0217",
+      "powiat_nazwa": "strzeliński",
+      "siedziba": "Strzelin",
+      "siedziba_rozwiązana": "Strzelin",
+      "gmina_kod": "0217043"
+    },
+    {
+      "powiat_teryt": "1819",
+      "powiat_nazwa": "strzyżowski",
+      "siedziba": "Strzyżów",
+      "siedziba_rozwiązana": "Strzyżów",
+      "gmina_kod": "1819043"
+    },
+    {
+      "powiat_teryt": "0807",
+      "powiat_nazwa": "sulęciński",
+      "siedziba": "Sulęcin",
+      "siedziba_rozwiązana": "Sulęcin",
+      "gmina_kod": "0807043"
+    },
+    {
+      "powiat_teryt": "1215",
+      "powiat_nazwa": "suski",
+      "siedziba": "Sucha Beskidzka",
+      "siedziba_rozwiązana": "Sucha Beskidzka",
+      "gmina_kod": "1215021"
+    },
+    {
+      "powiat_teryt": "2012",
+      "powiat_nazwa": "suwalski",
+      "siedziba": "Suwal",
+      "siedziba_rozwiązana": "Suwal",
+      "gmina_kod": null
+    },
+    {
+      "powiat_teryt": "3024",
+      "powiat_nazwa": "szamotulski",
+      "siedziba": "Obrzycko",
+      "siedziba_rozwiązana": "Obrzycko",
+      "gmina_kod": "3024011"
+    },
+    {
+      "powiat_teryt": "3215",
+      "powiat_nazwa": "szczecinecki",
+      "siedziba": "Szczecinek",
+      "siedziba_rozwiązana": "Szczecinek",
+      "gmina_kod": "3215011"
+    },
+    {
+      "powiat_teryt": "2817",
+      "powiat_nazwa": "szczycieński",
+      "siedziba": "Szczytno",
+      "siedziba_rozwiązana": "Szczytno",
+      "gmina_kod": "2817011"
+    },
+    {
+      "powiat_teryt": "2216",
+      "powiat_nazwa": "sztumski",
+      "siedziba": "Sztum",
+      "siedziba_rozwiązana": "Sztum",
+      "gmina_kod": "2216053"
+    },
+    {
+      "powiat_teryt": "1430",
+      "powiat_nazwa": "szydłowiecki",
+      "siedziba": "Szydłowiec",
+      "siedziba_rozwiązana": "Szydłowiec",
+      "gmina_kod": "1430053"
+    },
+    {
+      "powiat_teryt": "0413",
+      "powiat_nazwa": "sępoleński",
+      "siedziba": "Sępólno Krajeńskie",
+      "siedziba_rozwiązana": "Sępólno Krajeńskie",
+      "gmina_kod": "0413023"
+    },
+    {
+      "powiat_teryt": "3213",
+      "powiat_nazwa": "sławieński",
+      "siedziba": "Darłowo",
+      "siedziba_rozwiązana": "Darłowo",
+      "gmina_kod": "3213011"
+    },
+    {
+      "powiat_teryt": "0805",
+      "powiat_nazwa": "słubicki",
+      "siedziba": "Słubice",
+      "siedziba_rozwiązana": "Słubice",
+      "gmina_kod": "0805053"
+    },
+    {
+      "powiat_teryt": "3023",
+      "powiat_nazwa": "słupecki",
+      "siedziba": "Słupca",
+      "siedziba_rozwiązana": "Słupca",
+      "gmina_kod": "3023011"
+    },
+    {
+      "powiat_teryt": "2212",
+      "powiat_nazwa": "słupski",
+      "siedziba": "Ustka",
+      "siedziba_rozwiązana": "Ustka",
+      "gmina_kod": "2212011"
+    },
+    {
+      "powiat_teryt": "1820",
+      "powiat_nazwa": "tarnobrzeski",
+      "siedziba": "Nowa Dęba",
+      "siedziba_rozwiązana": "Nowa Dęba",
+      "gmina_kod": "1820043"
+    },
+    {
+      "powiat_teryt": "2413",
+      "powiat_nazwa": "tarnogórski",
+      "siedziba": "Tarnowskie Góry",
+      "siedziba_rozwiązana": "Tarnowskie Góry",
+      "gmina_kod": "2413041"
+    },
+    {
+      "powiat_teryt": "1216",
+      "powiat_nazwa": "tarnowski",
+      "siedziba": "Tuchów",
+      "siedziba_rozwiązana": "Tuchów",
+      "gmina_kod": "1216103"
+    },
+    {
+      "powiat_teryt": "1217",
+      "powiat_nazwa": "tatrzański",
+      "siedziba": "Zakopane",
+      "siedziba_rozwiązana": "Zakopane",
+      "gmina_kod": "1217011"
+    },
+    {
+      "powiat_teryt": "2214",
+      "powiat_nazwa": "tczewski",
+      "siedziba": "Tczew",
+      "siedziba_rozwiązana": "Tczew",
+      "gmina_kod": "2214011"
+    },
+    {
+      "powiat_teryt": "0618",
+      "powiat_nazwa": "tomaszowski",
+      "siedziba": "Tomaszów Lubelski",
+      "siedziba_rozwiązana": "Tomaszów Lubelski",
+      "gmina_kod": "0618011"
+    },
+    {
+      "powiat_teryt": "1016",
+      "powiat_nazwa": "tomaszowski",
+      "siedziba": "Tomaszów Mazowiecki",
+      "siedziba_rozwiązana": "Tomaszów Mazowiecki",
+      "gmina_kod": "1016011"
+    },
+    {
+      "powiat_teryt": "0415",
+      "powiat_nazwa": "toruński",
+      "siedziba": "Włocławek",
+      "siedziba_rozwiązana": "Włocławek",
+      "gmina_kod": "0415011"
+    },
+    {
+      "powiat_teryt": "0220",
+      "powiat_nazwa": "trzebnicki",
+      "siedziba": "Trzebnica",
+      "siedziba_rozwiązana": "Trzebnica",
+      "gmina_kod": "0220033"
+    },
+    {
+      "powiat_teryt": "0416",
+      "powiat_nazwa": "tucholski",
+      "siedziba": "Tuchola",
+      "siedziba_rozwiązana": "Tuchola",
+      "gmina_kod": "0416063"
+    },
+    {
+      "powiat_teryt": "3027",
+      "powiat_nazwa": "turecki",
+      "siedziba": "Turek",
+      "siedziba_rozwiązana": "Turek",
+      "gmina_kod": "3027011"
+    },
+    {
+      "powiat_teryt": "1218",
+      "powiat_nazwa": "wadowicki",
+      "siedziba": "Andrychów",
+      "siedziba_rozwiązana": "Andrychów",
+      "gmina_kod": "1218013"
+    },
+    {
+      "powiat_teryt": "1432",
+      "powiat_nazwa": "warszawski zachodni",
+      "siedziba": "Ożarów Mazowiecki",
+      "siedziba_rozwiązana": "Ożarów Mazowiecki",
+      "gmina_kod": "1432063"
+    },
+    {
+      "powiat_teryt": "0221",
+      "powiat_nazwa": "wałbrzyski",
+      "siedziba": "Boguszów-Gorce",
+      "siedziba_rozwiązana": "Boguszów-Gorce",
+      "gmina_kod": "0221011"
+    },
+    {
+      "powiat_teryt": "3217",
+      "powiat_nazwa": "wałecki",
+      "siedziba": "Wałcz",
+      "siedziba_rozwiązana": "Wałcz",
+      "gmina_kod": "3217011"
+    },
+    {
+      "powiat_teryt": "2215",
+      "powiat_nazwa": "wejherowski",
+      "siedziba": "Wejherowo",
+      "siedziba_rozwiązana": "Wejherowo",
+      "gmina_kod": "2215031"
+    },
+    {
+      "powiat_teryt": "1219",
+      "powiat_nazwa": "wielicki",
+      "siedziba": "Wieliczka",
+      "siedziba_rozwiązana": "Wieliczka",
+      "gmina_kod": "1219053"
+    },
+    {
+      "powiat_teryt": "1017",
+      "powiat_nazwa": "wieluński",
+      "siedziba": "Wieluń",
+      "siedziba_rozwiązana": "Wieluń",
+      "gmina_kod": "1017093"
+    },
+    {
+      "powiat_teryt": "1018",
+      "powiat_nazwa": "wieruszowski",
+      "siedziba": "Wieruszów",
+      "siedziba_rozwiązana": "Wieruszów",
+      "gmina_kod": "1018073"
+    },
+    {
+      "powiat_teryt": "2415",
+      "powiat_nazwa": "wodzisławski",
+      "siedziba": "Wodzisław Śląski",
+      "siedziba_rozwiązana": "Wodzisław Śląski",
+      "gmina_kod": "2415041"
+    },
+    {
+      "powiat_teryt": "3029",
+      "powiat_nazwa": "wolsztyński",
+      "siedziba": "Wolsztyn",
+      "siedziba_rozwiązana": "Wolsztyn",
+      "gmina_kod": "3029033"
+    },
+    {
+      "powiat_teryt": "1434",
+      "powiat_nazwa": "wołomiński",
+      "siedziba": "Ząbki",
+      "siedziba_rozwiązana": "Ząbki",
+      "gmina_kod": "1434031"
+    },
+    {
+      "powiat_teryt": "0222",
+      "powiat_nazwa": "wołowski",
+      "siedziba": "Brzeg Dolny",
+      "siedziba_rozwiązana": "Brzeg Dolny",
+      "gmina_kod": "0222013"
+    },
+    {
+      "powiat_teryt": "0223",
+      "powiat_nazwa": "wrocławski",
+      "siedziba": "Siechnice",
+      "siedziba_rozwiązana": "Siechnice",
+      "gmina_kod": "0223083"
+    },
+    {
+      "powiat_teryt": "3030",
+      "powiat_nazwa": "wrzesiński",
+      "siedziba": "Września",
+      "siedziba_rozwiązana": "Września",
+      "gmina_kod": "3030053"
+    },
+    {
+      "powiat_teryt": "0812",
+      "powiat_nazwa": "wschowski",
+      "siedziba": "Wschowa",
+      "siedziba_rozwiązana": "Wschowa",
+      "gmina_kod": "0812033"
+    },
+    {
+      "powiat_teryt": "2013",
+      "powiat_nazwa": "wysokomazowiecki",
+      "siedziba": "Wysokie Mazowieckie",
+      "siedziba_rozwiązana": "Wysokie Mazowieckie",
+      "gmina_kod": "2013011"
+    },
+    {
+      "powiat_teryt": "1435",
+      "powiat_nazwa": "wyszkowski",
+      "siedziba": "Wyszków",
+      "siedziba_rozwiązana": "Wyszków",
+      "gmina_kod": "1435053"
+    },
+    {
+      "powiat_teryt": "0417",
+      "powiat_nazwa": "wąbrzeski",
+      "siedziba": "Wąbrzeźno",
+      "siedziba_rozwiązana": "Wąbrzeźno",
+      "gmina_kod": "0417011"
+    },
+    {
+      "powiat_teryt": "3028",
+      "powiat_nazwa": "wągrowiecki",
+      "siedziba": "Wągrowiec",
+      "siedziba_rozwiązana": "Wągrowiec",
+      "gmina_kod": "3028011"
+    },
+    {
+      "powiat_teryt": "2819",
+      "powiat_nazwa": "węgorzewski",
+      "siedziba": "Węgorzewo",
+      "siedziba_rozwiązana": "Węgorzewo",
+      "gmina_kod": "2819033"
+    },
+    {
+      "powiat_teryt": "1433",
+      "powiat_nazwa": "węgrowski",
+      "siedziba": "Węgrów",
+      "siedziba_rozwiązana": "Węgrów",
+      "gmina_kod": "1433011"
+    },
+    {
+      "powiat_teryt": "0418",
+      "powiat_nazwa": "włocławski",
+      "siedziba": "Kowal",
+      "siedziba_rozwiązana": "Kowal",
+      "gmina_kod": "0418011"
+    },
+    {
+      "powiat_teryt": "0619",
+      "powiat_nazwa": "włodawski",
+      "siedziba": "Włodawa",
+      "siedziba_rozwiązana": "Włodawa",
+      "gmina_kod": "0619011"
+    },
+    {
+      "powiat_teryt": "2613",
+      "powiat_nazwa": "włoszczowski",
+      "siedziba": "Włoszczowa",
+      "siedziba_rozwiązana": "Włoszczowa",
+      "gmina_kod": "2613063"
+    },
+    {
+      "powiat_teryt": "2014",
+      "powiat_nazwa": "zambrowski",
+      "siedziba": "Zambrów",
+      "siedziba_rozwiązana": "Zambrów",
+      "gmina_kod": "2014011"
+    },
+    {
+      "powiat_teryt": "0620",
+      "powiat_nazwa": "zamojski",
+      "siedziba": "Szczebrzeszyn",
+      "siedziba_rozwiązana": "Szczebrzeszyn",
+      "gmina_kod": "0620133"
+    },
+    {
+      "powiat_teryt": "2416",
+      "powiat_nazwa": "zawierciański",
+      "siedziba": "Zawiercie",
+      "siedziba_rozwiązana": "Zawiercie",
+      "gmina_kod": "2416021"
+    },
+    {
+      "powiat_teryt": "1019",
+      "powiat_nazwa": "zduńskowolski",
+      "siedziba": "Zduńska Wola",
+      "siedziba_rozwiązana": "Zduńska Wola",
+      "gmina_kod": "1019011"
+    },
+    {
+      "powiat_teryt": "1020",
+      "powiat_nazwa": "zgierski",
+      "siedziba": "Zgierz",
+      "siedziba_rozwiązana": "Zgierz",
+      "gmina_kod": "1020031"
+    },
+    {
+      "powiat_teryt": "0225",
+      "powiat_nazwa": "zgorzelecki",
+      "siedziba": "Zgorzelec",
+      "siedziba_rozwiązana": "Zgorzelec",
+      "gmina_kod": "0225021"
+    },
+    {
+      "powiat_teryt": "0809",
+      "powiat_nazwa": "zielonogórski",
+      "siedziba": "Sulechów",
+      "siedziba_rozwiązana": "Sulechów",
+      "gmina_kod": "0809063"
+    },
+    {
+      "powiat_teryt": "1436",
+      "powiat_nazwa": "zwoleński",
+      "siedziba": "Zwoleń",
+      "siedziba_rozwiązana": "Zwoleń",
+      "gmina_kod": "1436053"
+    },
+    {
+      "powiat_teryt": "0224",
+      "powiat_nazwa": "ząbkowicki",
+      "siedziba": "Ząbkowice Śląskie",
+      "siedziba_rozwiązana": "Ząbkowice Śląskie",
+      "gmina_kod": "0224053"
+    },
+    {
+      "powiat_teryt": "0226",
+      "powiat_nazwa": "złotoryjski",
+      "siedziba": "Złotoryja",
+      "siedziba_rozwiązana": "Złotoryja",
+      "gmina_kod": "0226021"
+    },
+    {
+      "powiat_teryt": "3031",
+      "powiat_nazwa": "złotowski",
+      "siedziba": "Złotów",
+      "siedziba_rozwiązana": "Złotów",
+      "gmina_kod": "3031011"
+    },
+    {
+      "powiat_teryt": "2062",
+      "powiat_nazwa": "Łomża",
+      "siedziba": "Łomża",
+      "siedziba_rozwiązana": "Łomża",
+      "gmina_kod": "2062011"
+    },
+    {
+      "powiat_teryt": "1061",
+      "powiat_nazwa": "Łódź",
+      "siedziba": "Łódź",
+      "siedziba_rozwiązana": "Łódź",
+      "gmina_kod": "1061011"
+    },
+    {
+      "powiat_teryt": "1003",
+      "powiat_nazwa": "łaski",
+      "siedziba": "Łask",
+      "siedziba_rozwiązana": "Łask",
+      "gmina_kod": "1003023"
+    },
+    {
+      "powiat_teryt": "1810",
+      "powiat_nazwa": "łańcucki",
+      "siedziba": "Łańcut",
+      "siedziba_rozwiązana": "Łańcut",
+      "gmina_kod": "1810011"
+    },
+    {
+      "powiat_teryt": "3218",
+      "powiat_nazwa": "łobeski",
+      "siedziba": "Łobez",
+      "siedziba_rozwiązana": "Łobez",
+      "gmina_kod": "3218023"
+    },
+    {
+      "powiat_teryt": "2007",
+      "powiat_nazwa": "łomżyński",
+      "siedziba": "Nowogród",
+      "siedziba_rozwiązana": "Nowogród",
+      "gmina_kod": "2007043"
+    },
+    {
+      "powiat_teryt": "1410",
+      "powiat_nazwa": "łosicki",
+      "siedziba": "Łosice",
+      "siedziba_rozwiązana": "Łosice",
+      "gmina_kod": "1410023"
+    },
+    {
+      "powiat_teryt": "1005",
+      "powiat_nazwa": "łowicki",
+      "siedziba": "Łowicz",
+      "siedziba_rozwiązana": "Łowicz",
+      "gmina_kod": "1005011"
+    },
+    {
+      "powiat_teryt": "0611",
+      "powiat_nazwa": "łukowski",
+      "siedziba": "Stoczek Łukowski",
+      "siedziba_rozwiązana": "Stoczek Łukowski",
+      "gmina_kod": "0611021"
+    },
+    {
+      "powiat_teryt": "1006",
+      "powiat_nazwa": "łódzki wschodni",
+      "siedziba": "Łódź",
+      "siedziba_rozwiązana": "Łódź",
+      "gmina_kod": null
+    },
+    {
+      "powiat_teryt": "1004",
+      "powiat_nazwa": "łęczycki",
+      "siedziba": "Łęczyca",
+      "siedziba_rozwiązana": "Łęczyca",
+      "gmina_kod": "1004011"
+    },
+    {
+      "powiat_teryt": "0610",
+      "powiat_nazwa": "łęczyński",
+      "siedziba": "Łęczna",
+      "siedziba_rozwiązana": "Łęczna",
+      "gmina_kod": "0610033"
+    },
+    {
+      "powiat_teryt": "3263",
+      "powiat_nazwa": "Świnoujście",
+      "siedziba": "Świnoujście",
+      "siedziba_rozwiązana": "Świnoujście",
+      "gmina_kod": "3263011"
+    },
+    {
+      "powiat_teryt": "2476",
+      "powiat_nazwa": "Świętochłowice",
+      "siedziba": "Świętochłowice",
+      "siedziba_rozwiązana": "Świętochłowice",
+      "gmina_kod": "2476011"
+    },
+    {
+      "powiat_teryt": "0218",
+      "powiat_nazwa": "średzki",
+      "siedziba": "Środa Śląska",
+      "siedziba_rozwiązana": "Środa Śląska",
+      "gmina_kod": "0218043"
+    },
+    {
+      "powiat_teryt": "3025",
+      "powiat_nazwa": "średzki",
+      "siedziba": "Środa Wielkopolska",
+      "siedziba_rozwiązana": "Środa Wielkopolska",
+      "gmina_kod": "3025043"
+    },
+    {
+      "powiat_teryt": "3026",
+      "powiat_nazwa": "śremski",
+      "siedziba": "Śrem",
+      "siedziba_rozwiązana": "Śrem",
+      "gmina_kod": "3026043"
+    },
+    {
+      "powiat_teryt": "0219",
+      "powiat_nazwa": "świdnicki",
+      "siedziba": "Świdnica",
+      "siedziba_rozwiązana": "Świdnica",
+      "gmina_kod": "0219011"
+    },
+    {
+      "powiat_teryt": "0617",
+      "powiat_nazwa": "świdnicki",
+      "siedziba": "Świdnik",
+      "siedziba_rozwiązana": "Świdnik",
+      "gmina_kod": "0617011"
+    },
+    {
+      "powiat_teryt": "3216",
+      "powiat_nazwa": "świdwiński",
+      "siedziba": "Świdwin",
+      "siedziba_rozwiązana": "Świdwin",
+      "gmina_kod": "3216011"
+    },
+    {
+      "powiat_teryt": "0808",
+      "powiat_nazwa": "świebodziński",
+      "siedziba": "Świebodzin",
+      "siedziba_rozwiązana": "Świebodzin",
+      "gmina_kod": "0808053"
+    },
+    {
+      "powiat_teryt": "0414",
+      "powiat_nazwa": "świecki",
+      "siedziba": "Świecie",
+      "siedziba_rozwiązana": "Świecie",
+      "gmina_kod": "0414093"
+    },
+    {
+      "powiat_teryt": "2479",
+      "powiat_nazwa": "Żory",
+      "siedziba": "Żory",
+      "siedziba_rozwiązana": "Żory",
+      "gmina_kod": "2479011"
+    },
+    {
+      "powiat_teryt": "0810",
+      "powiat_nazwa": "żagański",
+      "siedziba": "Żagań",
+      "siedziba_rozwiązana": "Żagań",
+      "gmina_kod": "0810021"
+    },
+    {
+      "powiat_teryt": "0811",
+      "powiat_nazwa": "żarski",
+      "siedziba": "Żary",
+      "siedziba_rozwiązana": "Żary",
+      "gmina_kod": "0811021"
+    },
+    {
+      "powiat_teryt": "0419",
+      "powiat_nazwa": "żniński",
+      "siedziba": "Żnin",
+      "siedziba_rozwiązana": "Żnin",
+      "gmina_kod": "0419063"
+    },
+    {
+      "powiat_teryt": "1437",
+      "powiat_nazwa": "żuromiński",
+      "siedziba": "Żuromin",
+      "siedziba_rozwiązana": "Żuromin",
+      "gmina_kod": "1437063"
+    },
+    {
+      "powiat_teryt": "1438",
+      "powiat_nazwa": "żyrardowski",
+      "siedziba": "Żyrardów",
+      "siedziba_rozwiązana": "Żyrardów",
+      "gmina_kod": "1438011"
+    },
+    {
+      "powiat_teryt": "2417",
+      "powiat_nazwa": "żywiecki",
+      "siedziba": "Żywiec",
+      "siedziba_rozwiązana": "Żywiec",
+      "gmina_kod": "2417011"
+    }
+  ]
+}
