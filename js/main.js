@@ -90,6 +90,7 @@ controls.maxAzimuthAngle = 0;
 controls.enableZoom = true;
 controls.zoomSpeed = 0.85;
 controls.mouseButtons = { LEFT: THREE.MOUSE.PAN, MIDDLE: THREE.MOUSE.DOLLY, RIGHT: THREE.MOUSE.PAN };
+controls.touches = { ONE: THREE.TOUCH.PAN, TWO: THREE.TOUCH.DOLLY_PAN };
 controls.screenSpacePanning = false;
 controls.panSpeed = 1.0;
 
@@ -1413,6 +1414,7 @@ function setGminHover(hit) {
 }
 
 const DRAG_THRESHOLD = 6;
+const DRAG_THRESHOLD_TOUCH = 14;
 let pointerDown = null;
 
 function handleMapPick(clientX, clientY) {
@@ -1433,8 +1435,8 @@ function handleMapPick(clientX, clientY) {
 }
 
 renderer.domElement.addEventListener("pointerdown", (e) => {
-  if (e.button !== 0) return;
-  pointerDown = { x: e.clientX, y: e.clientY };
+  if (e.button !== 0 && e.pointerType !== "touch") return;
+  pointerDown = { x: e.clientX, y: e.clientY, type: e.pointerType };
   container.classList.add("dragging");
 });
 
@@ -1446,7 +1448,8 @@ function endPointer(e) {
   }
   const dx = e.clientX - pointerDown.x;
   const dy = e.clientY - pointerDown.y;
-  const wasClick = dx * dx + dy * dy <= DRAG_THRESHOLD * DRAG_THRESHOLD;
+  const thresh = pointerDown.type === "touch" ? DRAG_THRESHOLD_TOUCH : DRAG_THRESHOLD;
+  const wasClick = dx * dx + dy * dy <= thresh * thresh;
   pointerDown = null;
   if (wasClick) handleMapPick(e.clientX, e.clientY);
 }
