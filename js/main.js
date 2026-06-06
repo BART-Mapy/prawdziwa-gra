@@ -88,11 +88,12 @@ controls.maxPolarAngle = CAM_ELEV;
 controls.minAzimuthAngle = 0;
 controls.maxAzimuthAngle = 0;
 controls.enableZoom = true;
+controls.enablePan = true;
 controls.zoomSpeed = 0.85;
 controls.mouseButtons = { LEFT: THREE.MOUSE.PAN, MIDDLE: THREE.MOUSE.DOLLY, RIGHT: THREE.MOUSE.PAN };
-controls.touches = { ONE: THREE.TOUCH.PAN, TWO: THREE.TOUCH.DOLLY_PAN };
+controls.touches = { ONE: THREE.TOUCH.PAN, TWO: THREE.TOUCH.DOLLY };
 controls.screenSpacePanning = false;
-controls.panSpeed = 1.0;
+controls.panSpeed = 1.15;
 
 scene.add(new THREE.AmbientLight(0x6688bb, 0.65));
 const sun = new THREE.DirectionalLight(0xffffff, 1.0);
@@ -1416,6 +1417,7 @@ function setGminHover(hit) {
 const DRAG_THRESHOLD = 6;
 const DRAG_THRESHOLD_TOUCH = 14;
 let pointerDown = null;
+let gesturePanned = false;
 
 function handleMapPick(clientX, clientY) {
   if (nav.level === "polska") {
@@ -1437,20 +1439,27 @@ function handleMapPick(clientX, clientY) {
 renderer.domElement.addEventListener("pointerdown", (e) => {
   if (e.button !== 0 && e.pointerType !== "touch") return;
   pointerDown = { x: e.clientX, y: e.clientY, type: e.pointerType };
+  gesturePanned = false;
   container.classList.add("dragging");
+});
+
+controls.addEventListener("change", () => {
+  if (pointerDown) gesturePanned = true;
 });
 
 function endPointer(e) {
   container.classList.remove("dragging");
   if (!pointerDown || MapFly.isFlying()) {
     pointerDown = null;
+    gesturePanned = false;
     return;
   }
   const dx = e.clientX - pointerDown.x;
   const dy = e.clientY - pointerDown.y;
   const thresh = pointerDown.type === "touch" ? DRAG_THRESHOLD_TOUCH : DRAG_THRESHOLD;
-  const wasClick = dx * dx + dy * dy <= thresh * thresh;
+  const wasClick = !gesturePanned && dx * dx + dy * dy <= thresh * thresh;
   pointerDown = null;
+  gesturePanned = false;
   if (wasClick) handleMapPick(e.clientX, e.clientY);
 }
 
