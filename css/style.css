@@ -89,4 +89,3 @@ html.layout-mobile .loading { bottom: 24px; font-size: 13px; padding: 10px 18px;
   text-shadow: 0 0 4px #000, 0 0 8px #000;
   pointer-events: none; white-space: nowrap;
 }
-.city-label.major { font-size: 13px; font-weight: 800; }

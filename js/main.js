@@ -224,7 +224,6 @@ const MapFly = {
   start(tx, tz, dist) {
     applySnapZoom(dist);
     controls.enabled = false;
-    container.style.cursor = "wait";
     this.active = {
       t0: performance.now(),
       fromTarget: controls.target.clone(),
@@ -1170,7 +1169,7 @@ function buildCities() {
     groups.miasta.add(line);
 
     const div = document.createElement("div");
-    div.className = "city-label" + (s.isWojCapital ? " major" : "");
+    div.className = "city-label";
     div.textContent = `${s.name}, ${formatCityPop(s.labelPop ?? s.pop)}`;
     const label = new CSS2DObject(div);
     label.position.set(p.x, topY + 600, p.z);
